@@ -1,0 +1,101 @@
+customer_id,age_band,product_type,region,primary_channel,tenure_months,account_value_gbp,previous_complaints,risk_score_pct,risk_band,y_true,y_pred,y_pred_030,escalated,churned,nps_score
+CUS-0207,56-65,Credit Card,Scotland,App,19,9645,1,60.8,High Risk,0,1,1,False,False,61
+CUS-0133,26-35,Credit Card,London,Branch,83,46044,1,50.8,Medium Risk,0,1,1,False,False,53
+CUS-0426,26-35,Mortgage,Scotland,App,19,489,1,59.5,Medium Risk,0,1,1,False,False,70
+CUS-0456,46-55,Mortgage,Scotland,App,1,45201,0,55.4,Medium Risk,0,1,1,False,False,31
+CUS-0070,56-65,Home Insurance,North West,Online,39,9743,0,45.9,Medium Risk,0,0,1,False,False,34
+CUS-0129,26-35,Current Account,Midlands,App,1,8120,2,56.3,Medium Risk,0,1,1,False,False,51
+CUS-0367,46-55,Current Account,Midlands,Online,5,2169,1,45.3,Medium Risk,0,0,1,False,False,62
+CUS-0383,46-55,Home Insurance,North East,Online,12,5823,0,27.5,Low Risk,0,0,0,False,False,71
+CUS-0029,65+,Current Account,London,App,6,4016,1,60.2,High Risk,0,1,1,False,False,82
+CUS-0350,46-55,Personal Loan,Wales,Branch,48,6855,2,61.8,High Risk,1,1,1,True,False,19
+CUS-0328,26-35,Credit Card,London,Online,17,19134,3,71.0,High Risk,1,1,1,True,True,28
+CUS-0478,36-45,Personal Loan,Wales,Branch,24,26786,0,50.3,Medium Risk,0,1,1,False,False,44
+CUS-0431,46-55,Personal Loan,London,Online,15,2287,0,65.3,High Risk,0,1,1,False,False,54
+CUS-0018,56-65,Personal Loan,Midlands,App,38,12553,1,63.2,High Risk,0,1,1,False,True,54
+CUS-0136,26-35,Home Insurance,South East,Branch,151,13445,0,22.6,Low Risk,1,0,0,True,False,50
+CUS-0419,26-35,Savings Account,North West,Phone,35,6078,0,36.1,Medium Risk,0,0,1,False,False,38
+CUS-0260,46-55,Credit Card,London,Online,6,5222,1,58.5,Medium Risk,0,1,1,False,False,49
+CUS-0065,56-65,Savings Account,London,Phone,45,2603,2,55.5,Medium Risk,0,1,1,False,False,53
+CUS-0214,56-65,Credit Card,South East,Phone,33,4024,2,52.0,Medium Risk,1,1,1,True,False,31
+CUS-0491,18-25,Credit Card,South East,Online,19,11565,1,36.5,Medium Risk,0,0,1,False,False,40
+CUS-0115,36-45,Current Account,London,Online,46,24872,0,47.9,Medium Risk,0,0,1,False,False,100
+CUS-0373,56-65,Savings Account,London,Branch,1,5081,1,37.8,Medium Risk,0,0,1,False,False,45
+CUS-0066,18-25,Current Account,London,App,38,29711,2,65.6,High Risk,0,1,1,False,False,67
+CUS-0497,26-35,Personal Loan,Midlands,Online,36,2102,1,59.7,Medium Risk,0,1,1,False,False,70
+CUS-0465,46-55,Current Account,Scotland,Branch,13,9650,1,52.4,Medium Risk,1,1,1,True,False,28
+CUS-0139,46-55,Home Insurance,London,Phone,22,30378,1,70.2,High Risk,0,1,1,False,False,51
+CUS-0351,36-45,Mortgage,London,Branch,50,12905,1,50.9,Medium Risk,0,1,1,False,False,26
+CUS-0379,56-65,Mortgage,London,Phone,1,3755,0,60.7,High Risk,0,1,1,False,False,46
+CUS-0003,56-65,Savings Account,South East,Phone,4,2004,1,30.5,Medium Risk,0,0,1,False,False,55
+CUS-0466,36-45,Home Insurance,Midlands,Phone,14,2291,1,59.3,Medium Risk,1,1,1,True,False,33
+CUS-0440,46-55,Current Account,Midlands,Phone,10,1832,1,55.0,Medium Risk,1,1,1,True,False,19
+CUS-0096,26-35,Savings Account,South East,Phone,1,2369,0,25.1,Low Risk,1,0,0,True,True,-29
+CUS-0430,36-45,Current Account,North West,Online,31,13758,0,42.0,Medium Risk,1,0,1,True,False,10
+CUS-0473,46-55,Credit Card,London,App,32,1185,2,66.5,High Risk,0,1,1,False,False,64
+CUS-0147,36-45,Home Insurance,Midlands,App,14,5074,2,59.8,Medium Risk,1,1,1,True,False,10
+CUS-0064,26-35,Current Account,Midlands,Phone,3,9483,1,55.8,Medium Risk,0,1,1,False,False,83
+CUS-0296,46-55,Current Account,South East,App,13,3635,2,45.1,Medium Risk,0,0,1,False,False,56
+CUS-0261,26-35,Current Account,London,Phone,140,9023,1,58.0,Medium Risk,0,1,1,False,False,68
+CUS-0119,65+,Home Insurance,Wales,Branch,101,4361,1,39.5,Medium Risk,0,0,1,False,False,78
+CUS-0162,46-55,Current Account,Wales,Online,59,6848,2,48.7,Medium Risk,0,0,1,False,False,73
+CUS-0223,26-35,Home Insurance,Midlands,Phone,61,44925,0,50.7,Medium Risk,0,1,1,False,False,61
+CUS-0302,46-55,Current Account,Wales,Online,7,36053,1,46.2,Medium Risk,0,0,1,False,False,33
+CUS-0205,26-35,Mortgage,North East,Phone,18,21928,0,32.7,Medium Risk,0,0,1,False,False,51
+CUS-0232,36-45,Credit Card,Midlands,App,62,5076,0,39.7,Medium Risk,1,0,1,True,False,41
+CUS-0259,18-25,Credit Card,North West,Branch,109,1231,2,48.0,Medium Risk,0,0,1,False,False,35
+CUS-0262,18-25,Personal Loan,Wales,App,24,16141,1,64.0,High Risk,0,1,1,False,False,81
+CUS-0433,46-55,Credit Card,North West,App,28,10709,0,47.1,Medium Risk,1,0,1,True,False,28
+CUS-0058,26-35,Savings Account,Wales,Online,95,984,1,25.5,Low Risk,0,0,0,False,False,58
+CUS-0337,36-45,Credit Card,Scotland,Phone,32,3647,1,66.0,High Risk,0,1,1,False,False,66
+CUS-0071,46-55,Current Account,Wales,App,30,2238,0,39.9,Medium Risk,0,0,1,False,True,43
+CUS-0362,18-25,Current Account,Scotland,Online,24,312,0,48.2,Medium Risk,0,0,1,False,True,61
+CUS-0452,18-25,Home Insurance,Midlands,Branch,23,2908,1,44.8,Medium Risk,0,0,1,False,False,58
+CUS-0290,46-55,Current Account,Scotland,Online,24,23785,1,56.1,Medium Risk,0,1,1,False,True,35
+CUS-0327,65+,Savings Account,Wales,Online,11,207,2,36.3,Medium Risk,0,0,1,False,False,47
+CUS-0306,46-55,Current Account,Scotland,App,24,6466,0,51.9,Medium Risk,0,1,1,False,False,50
+CUS-0031,26-35,Mortgage,North West,App,1,7803,0,47.8,Medium Risk,0,0,1,False,False,72
+CUS-0093,36-45,Savings Account,Wales,Online,85,5176,2,31.9,Medium Risk,1,0,1,True,False,21
+CUS-0025,36-45,Home Insurance,North West,Online,14,76586,0,50.0,Medium Risk,1,1,1,True,False,30
+CUS-0288,56-65,Personal Loan,Scotland,Online,15,7956,0,65.2,High Risk,0,1,1,False,True,61
+CUS-0103,36-45,Personal Loan,London,Phone,87,13509,1,75.7,High Risk,0,1,1,False,False,59
+CUS-0254,18-25,Savings Account,Wales,Branch,44,35870,2,31.8,Medium Risk,1,0,1,True,False,21
+CUS-0403,18-25,Savings Account,South East,Phone,85,2825,0,21.0,Low Risk,0,0,0,False,False,86
+CUS-0091,56-65,Current Account,Scotland,Phone,75,10322,2,68.4,High Risk,0,1,1,False,False,39
+CUS-0166,46-55,Personal Loan,North East,Online,16,497,2,51.4,Medium Risk,1,1,1,True,False,15
+CUS-0348,46-55,Personal Loan,South East,Online,14,1007,2,58.1,Medium Risk,0,1,1,False,False,63
+CUS-0231,26-35,Savings Account,North West,App,8,17885,0,32.1,Medium Risk,0,0,1,False,False,81
+CUS-0075,36-45,Home Insurance,South East,Branch,1,2299,0,30.1,Medium Risk,0,0,1,False,False,43
+CUS-0201,65+,Credit Card,Scotland,Phone,21,3328,1,66.6,High Risk,1,1,1,True,False,36
+CUS-0335,36-45,Personal Loan,North West,App,28,9692,0,61.9,High Risk,0,1,1,False,True,70
+CUS-0372,65+,Current Account,Midlands,Branch,90,14111,1,36.3,Medium Risk,0,0,1,False,False,41
+CUS-0195,36-45,Personal Loan,Scotland,Phone,1,32574,0,75.1,High Risk,1,1,1,True,False,31
+CUS-0421,36-45,Current Account,Midlands,Branch,7,1514,2,48.2,Medium Risk,0,0,1,False,False,66
+CUS-0194,18-25,Current Account,Wales,Phone,58,74348,2,61.1,High Risk,1,1,1,True,True,29
+CUS-0222,36-45,Savings Account,Midlands,Phone,43,2103,0,31.0,Medium Risk,0,0,1,False,False,19
+CUS-0185,26-35,Personal Loan,London,App,27,10578,2,78.8,High Risk,1,1,1,True,False,35
+CUS-0301,36-45,Savings Account,Midlands,Branch,21,1980,4,45.6,Medium Risk,1,0,1,True,True,34
+CUS-0236,36-45,Savings Account,London,Phone,60,14125,0,40.9,Medium Risk,1,0,1,True,True,42
+CUS-0500,36-45,Savings Account,Wales,App,18,13382,0,27.1,Low Risk,0,0,0,False,False,49
+CUS-0486,65+,Mortgage,North West,Online,22,7723,0,43.0,Medium Risk,0,0,1,False,False,32
+CUS-0113,18-25,Personal Loan,Midlands,Branch,48,1619,0,48.0,Medium Risk,1,0,1,True,False,51
+CUS-0438,18-25,Current Account,Wales,Online,24,3084,2,50.9,Medium Risk,0,1,1,False,False,36
+CUS-0238,56-65,Home Insurance,London,Phone,9,1961,0,63.9,High Risk,0,1,1,False,False,67
+CUS-0228,36-45,Savings Account,Scotland,App,11,10462,2,51.2,Medium Risk,0,1,1,False,False,20
+CUS-0405,26-35,Savings Account,Wales,Phone,55,7416,1,36.5,Medium Risk,0,0,1,False,False,64
+CUS-0282,36-45,Credit Card,Midlands,Phone,5,2150,0,50.0,Medium Risk,0,0,1,False,False,47
+CUS-0468,26-35,Personal Loan,Midlands,Branch,74,5870,1,53.4,Medium Risk,0,1,1,False,False,40
+CUS-0069,46-55,Current Account,Scotland,App,33,1448,2,64.7,High Risk,0,1,1,False,False,48
+CUS-0299,65+,Current Account,North West,Online,85,9564,2,52.2,Medium Risk,1,1,1,True,True,58
+CUS-0110,18-25,Current Account,London,App,65,2540,0,49.2,Medium Risk,0,0,1,False,False,99
+CUS-0062,18-25,Current Account,London,App,44,1503,1,57.6,Medium Risk,1,1,1,True,False,57
+CUS-0455,18-25,Personal Loan,North West,Online,55,1338,0,56.5,Medium Risk,0,1,1,False,False,34
+CUS-0245,65+,Savings Account,North West,App,4,1255,0,31.9,Medium Risk,1,0,1,True,False,25
+CUS-0242,26-35,Current Account,Midlands,Phone,3,1768,2,62.3,High Risk,1,1,1,True,True,14
+CUS-0048,56-65,Credit Card,South East,Online,59,1701,1,33.7,Medium Risk,0,0,1,False,False,48
+CUS-0366,36-45,Savings Account,London,Phone,25,5679,2,57.0,Medium Risk,0,1,1,False,True,65
+CUS-0265,26-35,Mortgage,Midlands,Online,8,8797,0,39.1,Medium Risk,0,0,1,False,False,57
+CUS-0183,46-55,Current Account,Wales,App,1,3455,1,48.9,Medium Risk,0,0,1,False,False,45
+CUS-0140,46-55,Current Account,London,Online,111,27885,1,50.6,Medium Risk,0,1,1,False,False,74
+CUS-0179,26-35,Current Account,South East,App,157,7328,3,42.6,Medium Risk,0,0,1,False,True,66
+CUS-0358,46-55,Credit Card,North West,Phone,38,7566,1,59.9,Medium Risk,0,1,1,False,True,79

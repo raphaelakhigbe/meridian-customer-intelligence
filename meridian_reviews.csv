@@ -1,0 +1,311 @@
+review_id,customer_id,review_date,star_rating,product_type,review_text
+REV-00001,CUS-0362,2025-09-23,5,Current Account,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00002,CUS-0074,2025-11-10,1,Savings Account,Absolutely terrible service. I have been waiting months for my issue to be resolved. Would not recommend to anyone.
+REV-00003,CUS-0375,2025-11-28,4,Home Insurance,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00004,CUS-0156,2026-04-24,4,Savings Account,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00005,CUS-0105,2025-08-31,5,Personal Loan,"Very impressed. Everything was clear, fast, and professional."
+REV-00006,CUS-0395,2025-10-11,4,Savings Account,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00007,CUS-0378,2025-11-24,1,Current Account,The worst financial company I have ever dealt with. Every contact has made things worse.
+REV-00008,CUS-0125,2025-07-30,3,Current Account,Got the outcome I needed but it was harder work than it should have been.
+REV-00009,CUS-0069,2026-03-29,2,Current Account,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00010,CUS-0451,2026-02-28,2,Savings Account,Poor experience. Staff were polite but unable to help. Escalated twice with no result.
+REV-00011,CUS-0010,2025-09-30,4,Mortgage,Happy with the service. Easy to use app and responsive customer support.
+REV-00012,CUS-0195,2025-11-24,3,Personal Loan,Average service. Issue was eventually resolved but took longer than it should.
+REV-00013,CUS-0407,2026-03-03,2,Current Account,Expected better from a financial services company. Very disappointed.
+REV-00014,CUS-0085,2025-12-16,3,Home Insurance,Mixed experience. Some staff were excellent but the process let them down.
+REV-00015,CUS-0372,2026-04-23,4,Current Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00016,CUS-0389,2026-02-27,3,Current Account,Okay experience but room for improvement on communication.
+REV-00017,CUS-0496,2026-04-04,4,Personal Loan,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00018,CUS-0031,2025-11-11,4,Mortgage,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00019,CUS-0317,2026-05-06,5,Credit Card,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00020,CUS-0409,2026-01-04,1,Mortgage,The worst financial company I have ever dealt with. Every contact has made things worse.
+REV-00021,CUS-0491,2026-02-01,4,Credit Card,Happy with the service. Easy to use app and responsive customer support.
+REV-00022,CUS-0492,2026-03-25,4,Credit Card,Positive experience. Clear communication and follow-up.
+REV-00023,CUS-0281,2026-01-04,5,Personal Loan,Best financial services experience I have had. Highly recommend.
+REV-00024,CUS-0357,2025-11-17,3,Mortgage,Okay experience but room for improvement on communication.
+REV-00025,CUS-0077,2025-09-09,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00026,CUS-0462,2026-05-15,3,Current Account,Mixed experience. Some staff were excellent but the process let them down.
+REV-00027,CUS-0498,2025-06-11,4,Home Insurance,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00028,CUS-0212,2026-02-06,5,Current Account,Best financial services experience I have had. Highly recommend.
+REV-00029,CUS-0102,2025-06-02,4,Home Insurance,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00030,CUS-0335,2025-12-23,3,Personal Loan,Got the outcome I needed but it was harder work than it should have been.
+REV-00031,CUS-0476,2025-11-08,5,Current Account,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00032,CUS-0337,2026-03-24,3,Credit Card,Okay experience but room for improvement on communication.
+REV-00033,CUS-0441,2026-04-20,5,Personal Loan,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00034,CUS-0174,2025-07-19,3,Current Account,Okay experience but room for improvement on communication.
+REV-00035,CUS-0003,2025-12-06,4,Savings Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00036,CUS-0334,2026-02-05,5,Current Account,Best financial services experience I have had. Highly recommend.
+REV-00037,CUS-0410,2025-11-06,4,Savings Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00038,CUS-0071,2025-12-12,5,Current Account,Best financial services experience I have had. Highly recommend.
+REV-00039,CUS-0210,2025-12-23,2,Savings Account,Expected better from a financial services company. Very disappointed.
+REV-00040,CUS-0064,2025-12-23,5,Current Account,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00041,CUS-0385,2026-05-18,4,Credit Card,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00042,CUS-0094,2025-06-23,4,Savings Account,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00043,CUS-0486,2026-02-01,3,Mortgage,Average service. Issue was eventually resolved but took longer than it should.
+REV-00044,CUS-0186,2025-07-14,5,Mortgage,Excellent service from start to finish. Could not be happier.
+REV-00045,CUS-0034,2025-11-10,5,Mortgage,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00046,CUS-0078,2025-07-24,4,Personal Loan,Happy with the service. Easy to use app and responsive customer support.
+REV-00047,CUS-0001,2026-03-02,1,Personal Loan,Complete shambles from start to finish. Staff are unhelpful and the systems are broken.
+REV-00048,CUS-0012,2026-01-02,2,Home Insurance,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00049,CUS-0416,2025-06-22,3,Savings Account,Got the outcome I needed but it was harder work than it should have been.
+REV-00050,CUS-0023,2025-12-19,5,Home Insurance,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00051,CUS-0073,2025-09-09,5,Current Account,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00052,CUS-0183,2025-08-01,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00053,CUS-0132,2026-05-05,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00054,CUS-0411,2025-09-15,3,Current Account,Got the outcome I needed but it was harder work than it should have been.
+REV-00055,CUS-0194,2025-12-23,1,Current Account,Complete shambles from start to finish. Staff are unhelpful and the systems are broken.
+REV-00056,CUS-0056,2025-08-29,3,Current Account,Okay experience but room for improvement on communication.
+REV-00057,CUS-0149,2025-12-29,5,Current Account,Excellent service from start to finish. Could not be happier.
+REV-00058,CUS-0019,2026-02-28,1,Savings Account,Complete shambles from start to finish. Staff are unhelpful and the systems are broken.
+REV-00059,CUS-0205,2025-06-23,3,Mortgage,Okay experience but room for improvement on communication.
+REV-00060,CUS-0079,2026-05-14,5,Mortgage,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00061,CUS-0495,2025-12-13,3,Personal Loan,Mixed experience. Some staff were excellent but the process let them down.
+REV-00062,CUS-0263,2025-10-13,4,Personal Loan,Happy with the service. Easy to use app and responsive customer support.
+REV-00063,CUS-0324,2026-02-11,4,Credit Card,Happy with the service. Easy to use app and responsive customer support.
+REV-00064,CUS-0484,2026-01-27,4,Credit Card,Positive experience. Clear communication and follow-up.
+REV-00065,CUS-0080,2025-06-14,3,Home Insurance,Average service. Issue was eventually resolved but took longer than it should.
+REV-00066,CUS-0040,2025-08-28,5,Personal Loan,Excellent service from start to finish. Could not be happier.
+REV-00067,CUS-0452,2026-05-15,4,Home Insurance,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00068,CUS-0047,2026-03-27,2,Savings Account,Problems with my account have been ongoing. Not confident they will be resolved.
+REV-00069,CUS-0239,2025-11-23,5,Current Account,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00070,CUS-0392,2025-10-14,3,Current Account,Average service. Issue was eventually resolved but took longer than it should.
+REV-00071,CUS-0353,2026-03-13,2,Personal Loan,Problems with my account have been ongoing. Not confident they will be resolved.
+REV-00072,CUS-0342,2025-10-09,2,Current Account,Poor experience. Staff were polite but unable to help. Escalated twice with no result.
+REV-00073,CUS-0278,2026-02-15,4,Home Insurance,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00074,CUS-0291,2026-03-25,4,Home Insurance,Happy with the service. Easy to use app and responsive customer support.
+REV-00075,CUS-0318,2026-01-12,4,Home Insurance,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00076,CUS-0305,2025-10-29,4,Home Insurance,Happy with the service. Easy to use app and responsive customer support.
+REV-00077,CUS-0269,2025-07-14,3,Personal Loan,Okay experience but room for improvement on communication.
+REV-00078,CUS-0070,2026-01-23,5,Home Insurance,Excellent service from start to finish. Could not be happier.
+REV-00079,CUS-0456,2026-04-15,5,Mortgage,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00080,CUS-0466,2026-02-11,5,Home Insurance,Best financial services experience I have had. Highly recommend.
+REV-00081,CUS-0155,2025-08-19,4,Personal Loan,Happy with the service. Easy to use app and responsive customer support.
+REV-00082,CUS-0083,2025-06-12,2,Savings Account,Poor experience. Staff were polite but unable to help. Escalated twice with no result.
+REV-00083,CUS-0478,2025-12-04,1,Personal Loan,I am disgusted by the treatment I have received. Zero stars if I could give them.
+REV-00084,CUS-0173,2025-07-30,4,Personal Loan,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00085,CUS-0322,2025-12-18,3,Personal Loan,Okay experience but room for improvement on communication.
+REV-00086,CUS-0091,2025-10-29,3,Current Account,Average service. Issue was eventually resolved but took longer than it should.
+REV-00087,CUS-0181,2025-06-25,5,Personal Loan,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00088,CUS-0415,2026-03-03,1,Home Insurance,The worst financial company I have ever dealt with. Every contact has made things worse.
+REV-00089,CUS-0313,2025-10-26,5,Mortgage,"Very impressed. Everything was clear, fast, and professional."
+REV-00090,CUS-0279,2026-01-22,5,Home Insurance,"Very impressed. Everything was clear, fast, and professional."
+REV-00091,CUS-0382,2025-11-23,4,Mortgage,Positive experience. Clear communication and follow-up.
+REV-00092,CUS-0473,2025-12-04,1,Credit Card,I am disgusted by the treatment I have received. Zero stars if I could give them.
+REV-00093,CUS-0363,2026-05-11,5,Current Account,Excellent service from start to finish. Could not be happier.
+REV-00094,CUS-0325,2025-06-23,5,Home Insurance,Excellent service from start to finish. Could not be happier.
+REV-00095,CUS-0432,2025-08-26,3,Savings Account,Got the outcome I needed but it was harder work than it should have been.
+REV-00096,CUS-0348,2025-11-05,2,Personal Loan,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00097,CUS-0087,2025-08-13,4,Credit Card,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00098,CUS-0076,2025-10-05,5,Current Account,"Very impressed. Everything was clear, fast, and professional."
+REV-00099,CUS-0439,2026-05-10,2,Current Account,Poor experience. Staff were polite but unable to help. Escalated twice with no result.
+REV-00100,CUS-0016,2025-06-07,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00101,CUS-0250,2025-08-24,4,Personal Loan,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00102,CUS-0434,2025-08-11,5,Home Insurance,Best financial services experience I have had. Highly recommend.
+REV-00103,CUS-0020,2026-01-24,5,Credit Card,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00104,CUS-0323,2026-02-23,4,Credit Card,Positive experience. Clear communication and follow-up.
+REV-00105,CUS-0333,2025-06-06,3,Mortgage,Got the outcome I needed but it was harder work than it should have been.
+REV-00106,CUS-0057,2025-10-28,4,Personal Loan,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00107,CUS-0302,2025-06-09,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00108,CUS-0230,2025-06-03,1,Credit Card,The worst financial company I have ever dealt with. Every contact has made things worse.
+REV-00109,CUS-0332,2025-08-07,1,Current Account,I am disgusted by the treatment I have received. Zero stars if I could give them.
+REV-00110,CUS-0133,2025-11-27,5,Credit Card,"Very impressed. Everything was clear, fast, and professional."
+REV-00111,CUS-0138,2026-01-28,5,Personal Loan,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00112,CUS-0424,2025-09-15,5,Home Insurance,Excellent service from start to finish. Could not be happier.
+REV-00113,CUS-0336,2025-12-18,4,Home Insurance,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00114,CUS-0026,2026-05-07,5,Home Insurance,Excellent service from start to finish. Could not be happier.
+REV-00115,CUS-0465,2025-07-08,5,Current Account,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00116,CUS-0282,2026-04-22,5,Credit Card,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00117,CUS-0248,2025-10-11,3,Personal Loan,Mixed experience. Some staff were excellent but the process let them down.
+REV-00118,CUS-0238,2026-05-22,5,Home Insurance,"Very impressed. Everything was clear, fast, and professional."
+REV-00119,CUS-0118,2026-05-23,5,Current Account,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00120,CUS-0043,2025-08-12,4,Credit Card,Positive experience. Clear communication and follow-up.
+REV-00121,CUS-0221,2026-05-23,1,Current Account,Complete shambles from start to finish. Staff are unhelpful and the systems are broken.
+REV-00122,CUS-0177,2025-06-24,5,Savings Account,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00123,CUS-0321,2026-04-05,3,Mortgage,Average service. Issue was eventually resolved but took longer than it should.
+REV-00124,CUS-0154,2025-12-24,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00125,CUS-0232,2026-03-17,4,Credit Card,Positive experience. Clear communication and follow-up.
+REV-00126,CUS-0228,2026-02-26,4,Savings Account,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00127,CUS-0418,2026-04-21,4,Home Insurance,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00128,CUS-0204,2026-03-10,5,Personal Loan,"Very impressed. Everything was clear, fast, and professional."
+REV-00129,CUS-0127,2025-10-27,3,Credit Card,Okay experience but room for improvement on communication.
+REV-00130,CUS-0330,2025-08-22,3,Savings Account,Okay experience but room for improvement on communication.
+REV-00131,CUS-0032,2025-07-24,5,Current Account,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00132,CUS-0114,2025-06-07,5,Home Insurance,Excellent service from start to finish. Could not be happier.
+REV-00133,CUS-0471,2025-11-18,4,Savings Account,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00134,CUS-0272,2026-01-30,4,Credit Card,Happy with the service. Easy to use app and responsive customer support.
+REV-00135,CUS-0141,2025-10-07,1,Current Account,Appalling. Have had to contact them six times about the same problem.
+REV-00136,CUS-0058,2025-08-19,4,Savings Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00137,CUS-0193,2025-10-10,2,Current Account,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00138,CUS-0025,2025-09-13,4,Home Insurance,Positive experience. Clear communication and follow-up.
+REV-00139,CUS-0018,2025-06-24,5,Personal Loan,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00140,CUS-0266,2025-06-18,5,Credit Card,"Very impressed. Everything was clear, fast, and professional."
+REV-00141,CUS-0067,2025-12-05,5,Current Account,Excellent service from start to finish. Could not be happier.
+REV-00142,CUS-0209,2026-01-06,4,Current Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00143,CUS-0480,2025-06-20,4,Savings Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00144,CUS-0095,2026-02-03,4,Personal Loan,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00145,CUS-0254,2025-07-14,2,Savings Account,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00146,CUS-0267,2026-02-23,4,Savings Account,Positive experience. Clear communication and follow-up.
+REV-00147,CUS-0024,2025-07-08,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00148,CUS-0223,2026-01-08,5,Home Insurance,"Very impressed. Everything was clear, fast, and professional."
+REV-00149,CUS-0262,2026-02-15,4,Personal Loan,Happy with the service. Easy to use app and responsive customer support.
+REV-00150,CUS-0427,2025-07-18,5,Savings Account,Excellent service from start to finish. Could not be happier.
+REV-00151,CUS-0006,2025-07-09,3,Personal Loan,Got the outcome I needed but it was harder work than it should have been.
+REV-00152,CUS-0117,2026-05-13,5,Home Insurance,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00153,CUS-0046,2025-09-26,5,Home Insurance,Excellent service from start to finish. Could not be happier.
+REV-00154,CUS-0017,2026-01-25,3,Current Account,Mixed experience. Some staff were excellent but the process let them down.
+REV-00155,CUS-0463,2025-09-07,3,Mortgage,Okay experience but room for improvement on communication.
+REV-00156,CUS-0358,2026-01-11,4,Credit Card,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00157,CUS-0004,2026-03-23,3,Savings Account,Got the outcome I needed but it was harder work than it should have been.
+REV-00158,CUS-0219,2026-01-19,4,Personal Loan,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00159,CUS-0406,2025-07-17,5,Savings Account,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00160,CUS-0061,2026-04-17,5,Home Insurance,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00161,CUS-0111,2025-09-11,2,Personal Loan,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00162,CUS-0319,2025-05-29,5,Current Account,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00163,CUS-0429,2025-11-15,2,Current Account,Expected better from a financial services company. Very disappointed.
+REV-00164,CUS-0030,2025-08-19,1,Current Account,The worst financial company I have ever dealt with. Every contact has made things worse.
+REV-00165,CUS-0438,2026-05-21,2,Current Account,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00166,CUS-0472,2025-12-13,5,Savings Account,Excellent service from start to finish. Could not be happier.
+REV-00167,CUS-0027,2025-09-28,4,Current Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00168,CUS-0008,2026-03-06,5,Current Account,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00169,CUS-0454,2025-12-10,3,Current Account,Got the outcome I needed but it was harder work than it should have been.
+REV-00170,CUS-0109,2026-02-12,1,Mortgage,Complete shambles from start to finish. Staff are unhelpful and the systems are broken.
+REV-00171,CUS-0038,2026-02-21,4,Credit Card,Positive experience. Clear communication and follow-up.
+REV-00172,CUS-0158,2026-05-20,2,Credit Card,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00173,CUS-0490,2026-05-05,4,Personal Loan,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00174,CUS-0119,2025-11-08,3,Home Insurance,Got the outcome I needed but it was harder work than it should have been.
+REV-00175,CUS-0115,2025-11-09,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00176,CUS-0176,2025-10-28,1,Savings Account,Absolutely terrible service. I have been waiting months for my issue to be resolved. Would not recommend to anyone.
+REV-00177,CUS-0374,2026-05-06,4,Current Account,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00178,CUS-0182,2025-10-30,5,Savings Account,Best financial services experience I have had. Highly recommend.
+REV-00179,CUS-0145,2025-11-22,5,Home Insurance,Best financial services experience I have had. Highly recommend.
+REV-00180,CUS-0370,2025-06-09,3,Current Account,Okay experience but room for improvement on communication.
+REV-00181,CUS-0391,2026-05-13,4,Savings Account,Positive experience. Clear communication and follow-up.
+REV-00182,CUS-0196,2025-09-07,4,Personal Loan,Positive experience. Clear communication and follow-up.
+REV-00183,CUS-0405,2025-12-09,4,Savings Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00184,CUS-0276,2025-08-11,2,Credit Card,Poor experience. Staff were polite but unable to help. Escalated twice with no result.
+REV-00185,CUS-0455,2025-11-11,2,Personal Loan,Problems with my account have been ongoing. Not confident they will be resolved.
+REV-00186,CUS-0142,2025-06-20,5,Current Account,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00187,CUS-0366,2026-02-21,5,Savings Account,Best financial services experience I have had. Highly recommend.
+REV-00188,CUS-0068,2025-11-05,2,Personal Loan,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00189,CUS-0211,2025-09-26,3,Mortgage,Got the outcome I needed but it was harder work than it should have been.
+REV-00190,CUS-0169,2025-07-19,3,Personal Loan,Average service. Issue was eventually resolved but took longer than it should.
+REV-00191,CUS-0494,2025-05-31,2,Mortgage,Expected better from a financial services company. Very disappointed.
+REV-00192,CUS-0376,2026-03-15,2,Savings Account,Expected better from a financial services company. Very disappointed.
+REV-00193,CUS-0401,2025-07-15,2,Personal Loan,Problems with my account have been ongoing. Not confident they will be resolved.
+REV-00194,CUS-0273,2025-10-07,2,Current Account,Problems with my account have been ongoing. Not confident they will be resolved.
+REV-00195,CUS-0110,2025-06-21,5,Current Account,Excellent service from start to finish. Could not be happier.
+REV-00196,CUS-0249,2026-04-02,5,Current Account,"Very impressed. Everything was clear, fast, and professional."
+REV-00197,CUS-0146,2026-03-15,5,Current Account,Best financial services experience I have had. Highly recommend.
+REV-00198,CUS-0093,2025-06-30,1,Savings Account,Appalling. Have had to contact them six times about the same problem.
+REV-00199,CUS-0153,2025-08-08,3,Credit Card,Got the outcome I needed but it was harder work than it should have been.
+REV-00200,CUS-0368,2026-02-21,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00201,CUS-0468,2025-08-30,3,Personal Loan,Okay experience but room for improvement on communication.
+REV-00202,CUS-0084,2025-09-20,4,Personal Loan,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00203,CUS-0246,2026-05-05,4,Home Insurance,Positive experience. Clear communication and follow-up.
+REV-00204,CUS-0166,2025-11-12,2,Personal Loan,Expected better from a financial services company. Very disappointed.
+REV-00205,CUS-0164,2026-05-17,4,Savings Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00206,CUS-0200,2026-01-20,5,Credit Card,Best financial services experience I have had. Highly recommend.
+REV-00207,CUS-0229,2026-02-14,5,Home Insurance,"Very impressed. Everything was clear, fast, and professional."
+REV-00208,CUS-0075,2025-09-08,4,Home Insurance,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00209,CUS-0479,2025-09-29,5,Personal Loan,Excellent service from start to finish. Could not be happier.
+REV-00210,CUS-0359,2025-07-10,1,Mortgage,I am disgusted by the treatment I have received. Zero stars if I could give them.
+REV-00211,CUS-0251,2026-03-19,5,Current Account,Best financial services experience I have had. Highly recommend.
+REV-00212,CUS-0120,2026-02-23,5,Credit Card,"Very impressed. Everything was clear, fast, and professional."
+REV-00213,CUS-0311,2025-12-07,1,Current Account,Absolutely terrible service. I have been waiting months for my issue to be resolved. Would not recommend to anyone.
+REV-00214,CUS-0300,2025-08-09,4,Current Account,Positive experience. Clear communication and follow-up.
+REV-00215,CUS-0256,2025-09-07,3,Credit Card,Mixed experience. Some staff were excellent but the process let them down.
+REV-00216,CUS-0355,2026-01-07,4,Current Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00217,CUS-0400,2026-04-27,4,Current Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00218,CUS-0226,2026-04-05,5,Current Account,"Very impressed. Everything was clear, fast, and professional."
+REV-00219,CUS-0354,2025-07-28,5,Current Account,Best financial services experience I have had. Highly recommend.
+REV-00220,CUS-0235,2025-07-30,3,Home Insurance,Average service. Issue was eventually resolved but took longer than it should.
+REV-00221,CUS-0383,2025-10-27,4,Home Insurance,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00222,CUS-0275,2025-08-22,4,Home Insurance,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00223,CUS-0037,2025-07-04,1,Mortgage,I am disgusted by the treatment I have received. Zero stars if I could give them.
+REV-00224,CUS-0197,2025-06-28,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00225,CUS-0140,2026-01-15,4,Current Account,Positive experience. Clear communication and follow-up.
+REV-00226,CUS-0365,2026-04-08,1,Current Account,Absolutely terrible service. I have been waiting months for my issue to be resolved. Would not recommend to anyone.
+REV-00227,CUS-0245,2025-11-27,4,Savings Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00228,CUS-0440,2026-01-22,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00229,CUS-0287,2026-02-08,1,Current Account,Complete shambles from start to finish. Staff are unhelpful and the systems are broken.
+REV-00230,CUS-0060,2025-05-30,4,Current Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00231,CUS-0112,2026-04-06,3,Savings Account,Average service. Issue was eventually resolved but took longer than it should.
+REV-00232,CUS-0090,2026-01-21,5,Home Insurance,Best financial services experience I have had. Highly recommend.
+REV-00233,CUS-0437,2026-03-13,3,Home Insurance,Got the outcome I needed but it was harder work than it should have been.
+REV-00234,CUS-0007,2025-06-30,3,Home Insurance,Average service. Issue was eventually resolved but took longer than it should.
+REV-00235,CUS-0361,2026-05-13,2,Savings Account,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00236,CUS-0347,2025-08-13,5,Current Account,Best financial services experience I have had. Highly recommend.
+REV-00237,CUS-0339,2025-10-30,2,Credit Card,Poor experience. Staff were polite but unable to help. Escalated twice with no result.
+REV-00238,CUS-0159,2026-05-14,1,Credit Card,Appalling. Have had to contact them six times about the same problem.
+REV-00239,CUS-0151,2025-10-15,4,Current Account,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00240,CUS-0178,2026-03-17,3,Savings Account,Mixed experience. Some staff were excellent but the process let them down.
+REV-00241,CUS-0394,2026-01-31,4,Savings Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00242,CUS-0185,2025-12-25,4,Personal Loan,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00243,CUS-0450,2025-12-10,1,Current Account,I am disgusted by the treatment I have received. Zero stars if I could give them.
+REV-00244,CUS-0011,2026-03-25,5,Personal Loan,Excellent service from start to finish. Could not be happier.
+REV-00245,CUS-0381,2026-02-06,4,Current Account,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00246,CUS-0104,2026-03-21,2,Current Account,Expected better from a financial services company. Very disappointed.
+REV-00247,CUS-0082,2025-06-21,4,Home Insurance,Positive experience. Clear communication and follow-up.
+REV-00248,CUS-0039,2025-12-25,1,Savings Account,Absolutely terrible service. I have been waiting months for my issue to be resolved. Would not recommend to anyone.
+REV-00249,CUS-0315,2026-03-29,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00250,CUS-0168,2026-04-15,3,Home Insurance,Okay experience but room for improvement on communication.
+REV-00251,CUS-0470,2025-12-22,3,Savings Account,Got the outcome I needed but it was harder work than it should have been.
+REV-00252,CUS-0297,2025-11-04,5,Credit Card,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00253,CUS-0475,2026-04-11,5,Personal Loan,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00254,CUS-0199,2026-04-21,3,Credit Card,Got the outcome I needed but it was harder work than it should have been.
+REV-00255,CUS-0298,2025-09-25,5,Credit Card,Best financial services experience I have had. Highly recommend.
+REV-00256,CUS-0417,2025-07-21,3,Current Account,Mixed experience. Some staff were excellent but the process let them down.
+REV-00257,CUS-0147,2025-10-29,4,Home Insurance,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00258,CUS-0393,2025-11-06,4,Personal Loan,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00259,CUS-0148,2025-06-07,4,Personal Loan,Happy with the service. Easy to use app and responsive customer support.
+REV-00260,CUS-0448,2025-09-13,3,Savings Account,Got the outcome I needed but it was harder work than it should have been.
+REV-00261,CUS-0288,2025-06-26,3,Personal Loan,Average service. Issue was eventually resolved but took longer than it should.
+REV-00262,CUS-0124,2026-01-29,4,Personal Loan,Positive experience. Clear communication and follow-up.
+REV-00263,CUS-0369,2026-05-22,3,Current Account,Mixed experience. Some staff were excellent but the process let them down.
+REV-00264,CUS-0097,2026-04-28,5,Savings Account,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00265,CUS-0144,2025-11-09,3,Savings Account,Mixed experience. Some staff were excellent but the process let them down.
+REV-00266,CUS-0240,2025-06-02,5,Home Insurance,Best financial services experience I have had. Highly recommend.
+REV-00267,CUS-0443,2026-03-05,5,Current Account,Outstanding. The team went above and beyond to sort out a complex issue.
+REV-00268,CUS-0098,2025-12-20,3,Credit Card,Mixed experience. Some staff were excellent but the process let them down.
+REV-00269,CUS-0408,2025-07-11,3,Home Insurance,Mixed experience. Some staff were excellent but the process let them down.
+REV-00270,CUS-0123,2025-09-25,5,Current Account,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00271,CUS-0184,2025-10-06,5,Credit Card,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00272,CUS-0203,2026-04-18,3,Current Account,Got the outcome I needed but it was harder work than it should have been.
+REV-00273,CUS-0247,2025-11-17,5,Personal Loan,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00274,CUS-0306,2026-01-01,4,Current Account,Positive experience. Clear communication and follow-up.
+REV-00275,CUS-0299,2025-10-29,3,Current Account,Okay experience but room for improvement on communication.
+REV-00276,CUS-0352,2026-04-26,2,Personal Loan,Problems with my account have been ongoing. Not confident they will be resolved.
+REV-00277,CUS-0387,2025-12-05,5,Home Insurance,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00278,CUS-0396,2025-09-21,1,Credit Card,Absolutely terrible service. I have been waiting months for my issue to be resolved. Would not recommend to anyone.
+REV-00279,CUS-0285,2026-05-07,2,Home Insurance,Not impressed at all. The response times are far too long and the issue is still not fixed.
+REV-00280,CUS-0126,2025-12-19,2,Credit Card,Poor experience. Staff were polite but unable to help. Escalated twice with no result.
+REV-00281,CUS-0303,2025-07-03,5,Home Insurance,"Very impressed. Everything was clear, fast, and professional."
+REV-00282,CUS-0224,2026-03-31,3,Personal Loan,Got the outcome I needed but it was harder work than it should have been.
+REV-00283,CUS-0419,2025-12-09,3,Savings Account,Average service. Issue was eventually resolved but took longer than it should.
+REV-00284,CUS-0220,2026-02-10,3,Home Insurance,Average service. Issue was eventually resolved but took longer than it should.
+REV-00285,CUS-0130,2025-08-07,2,Personal Loan,Expected better from a financial services company. Very disappointed.
+REV-00286,CUS-0421,2026-04-26,3,Current Account,Got the outcome I needed but it was harder work than it should have been.
+REV-00287,CUS-0290,2025-10-22,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00288,CUS-0445,2026-03-23,5,Current Account,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00289,CUS-0377,2025-11-04,1,Current Account,Appalling. Have had to contact them six times about the same problem.
+REV-00290,CUS-0292,2025-11-25,2,Personal Loan,Problems with my account have been ongoing. Not confident they will be resolved.
+REV-00291,CUS-0356,2025-10-27,5,Credit Card,Fantastic. The agent understood my situation immediately and resolved it on the spot.
+REV-00292,CUS-0295,2025-07-27,5,Savings Account,Best financial services experience I have had. Highly recommend.
+REV-00293,CUS-0397,2026-05-12,3,Home Insurance,Mixed experience. Some staff were excellent but the process let them down.
+REV-00294,CUS-0341,2025-06-17,5,Credit Card,Best financial services experience I have had. Highly recommend.
+REV-00295,CUS-0113,2025-10-27,5,Personal Loan,Excellent service from start to finish. Could not be happier.
+REV-00296,CUS-0180,2025-09-22,4,Current Account,Happy with the service. Easy to use app and responsive customer support.
+REV-00297,CUS-0308,2025-11-15,4,Personal Loan,Positive experience. Clear communication and follow-up.
+REV-00298,CUS-0433,2026-04-11,3,Credit Card,Mixed experience. Some staff were excellent but the process let them down.
+REV-00299,CUS-0488,2025-06-11,4,Savings Account,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00300,CUS-0482,2026-04-24,4,Home Insurance,Positive experience. Clear communication and follow-up.
+REV-00301,CUS-0423,2026-02-03,4,Current Account,Good service overall. My query was handled efficiently by a knowledgeable agent.
+REV-00302,CUS-0234,2025-11-17,4,Current Account,Very helpful team. Resolved my issue within 24 hours as promised.
+REV-00303,CUS-0312,2025-11-20,1,Mortgage,Absolutely terrible service. I have been waiting months for my issue to be resolved. Would not recommend to anyone.
+REV-00304,CUS-0165,2025-11-03,2,Credit Card,Expected better from a financial services company. Very disappointed.
+REV-00305,CUS-0137,2025-07-29,4,Current Account,Positive experience. Clear communication and follow-up.
+REV-00306,CUS-0198,2025-12-19,1,Mortgage,Absolutely terrible service. I have been waiting months for my issue to be resolved. Would not recommend to anyone.
+REV-00307,CUS-0259,2025-06-18,5,Credit Card,"Very impressed. Everything was clear, fast, and professional."
+REV-00308,CUS-0233,2026-03-28,2,Current Account,Problems with my account have been ongoing. Not confident they will be resolved.
+REV-00309,CUS-0116,2026-03-18,4,Savings Account,Positive experience. Clear communication and follow-up.
+REV-00310,CUS-0121,2025-09-23,2,Personal Loan,Problems with my account have been ongoing. Not confident they will be resolved.

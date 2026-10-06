@@ -1,0 +1,501 @@
+customer_id,age_band,product_type,region,primary_channel,tenure_months,account_value_gbp,previous_complaints
+CUS-0001,46-55,Personal Loan,North West,App,43,16327,0
+CUS-0002,26-35,Savings Account,Wales,Online,3,16055,1
+CUS-0003,56-65,Savings Account,South East,Phone,4,2004,1
+CUS-0004,26-35,Savings Account,London,App,84,17706,1
+CUS-0005,56-65,Credit Card,Midlands,Online,19,14227,1
+CUS-0006,65+,Personal Loan,London,Online,28,83513,0
+CUS-0007,56-65,Home Insurance,North East,Online,1,2602,1
+CUS-0008,26-35,Current Account,London,Online,80,1040,0
+CUS-0009,26-35,Current Account,Midlands,App,4,1667,0
+CUS-0010,65+,Mortgage,Scotland,Phone,19,21869,1
+CUS-0011,26-35,Personal Loan,North East,App,29,6301,0
+CUS-0012,26-35,Home Insurance,London,Online,35,854,2
+CUS-0013,65+,Personal Loan,North East,Phone,1,1884,0
+CUS-0014,36-45,Home Insurance,North East,Online,35,3273,0
+CUS-0015,18-25,Home Insurance,South East,Phone,211,11764,0
+CUS-0016,26-35,Current Account,North West,App,22,4955,0
+CUS-0017,46-55,Current Account,South East,App,2,7181,2
+CUS-0018,56-65,Personal Loan,Midlands,App,38,12553,1
+CUS-0019,56-65,Savings Account,London,App,11,4669,3
+CUS-0020,65+,Credit Card,North East,App,40,18528,0
+CUS-0021,36-45,Current Account,London,Online,3,8971,0
+CUS-0022,36-45,Personal Loan,North West,Phone,23,5007,0
+CUS-0023,26-35,Home Insurance,London,Phone,16,864,1
+CUS-0024,46-55,Current Account,Scotland,Phone,2,29444,0
+CUS-0025,36-45,Home Insurance,North West,Online,14,76586,0
+CUS-0026,26-35,Home Insurance,Scotland,Online,24,4480,0
+CUS-0027,36-45,Current Account,North West,Phone,10,1637,1
+CUS-0028,36-45,Mortgage,North West,Online,62,22678,0
+CUS-0029,65+,Current Account,London,App,6,4016,1
+CUS-0030,36-45,Current Account,London,Branch,42,28025,3
+CUS-0031,26-35,Mortgage,North West,App,1,7803,0
+CUS-0032,26-35,Current Account,Wales,Online,104,21576,3
+CUS-0033,18-25,Current Account,South East,Online,68,1843,0
+CUS-0034,56-65,Mortgage,Wales,App,45,5481,0
+CUS-0035,36-45,Current Account,Midlands,Online,18,17928,1
+CUS-0036,26-35,Savings Account,North West,Phone,154,4993,3
+CUS-0037,18-25,Mortgage,Wales,Phone,1,4033,0
+CUS-0038,56-65,Credit Card,London,Phone,30,6668,1
+CUS-0039,36-45,Savings Account,North East,Online,154,8424,0
+CUS-0040,36-45,Personal Loan,South East,Online,121,1573,1
+CUS-0041,18-25,Current Account,London,Branch,135,223,1
+CUS-0042,56-65,Current Account,London,Branch,22,972,0
+CUS-0043,56-65,Credit Card,Scotland,Phone,2,6909,0
+CUS-0044,26-35,Savings Account,North East,Phone,126,13536,1
+CUS-0045,36-45,Savings Account,North East,Branch,8,9215,3
+CUS-0046,18-25,Home Insurance,Midlands,Online,103,1962,0
+CUS-0047,46-55,Savings Account,London,Phone,1,5649,1
+CUS-0048,56-65,Credit Card,South East,Online,59,1701,1
+CUS-0049,46-55,Credit Card,Midlands,Phone,11,9956,1
+CUS-0050,18-25,Credit Card,London,App,1,12491,2
+CUS-0051,36-45,Personal Loan,North West,Online,64,45437,1
+CUS-0052,26-35,Savings Account,Midlands,Branch,86,8760,1
+CUS-0053,56-65,Mortgage,Wales,Online,26,2898,2
+CUS-0054,18-25,Savings Account,South East,Online,5,1129,0
+CUS-0055,36-45,Credit Card,South East,Online,10,25175,0
+CUS-0056,36-45,Current Account,London,Phone,13,1081,0
+CUS-0057,56-65,Personal Loan,Midlands,Online,32,389,0
+CUS-0058,26-35,Savings Account,Wales,Online,95,984,1
+CUS-0059,56-65,Credit Card,South East,Branch,27,2969,1
+CUS-0060,65+,Current Account,London,Branch,122,2982,0
+CUS-0061,18-25,Home Insurance,Midlands,Phone,59,38230,1
+CUS-0062,18-25,Current Account,London,App,44,1503,1
+CUS-0063,26-35,Personal Loan,South East,Phone,42,4374,1
+CUS-0064,26-35,Current Account,Midlands,Phone,3,9483,1
+CUS-0065,56-65,Savings Account,London,Phone,45,2603,2
+CUS-0066,18-25,Current Account,London,App,38,29711,2
+CUS-0067,26-35,Current Account,Scotland,Phone,60,22531,0
+CUS-0068,36-45,Personal Loan,London,Branch,1,24486,0
+CUS-0069,46-55,Current Account,Scotland,App,33,1448,2
+CUS-0070,56-65,Home Insurance,North West,Online,39,9743,0
+CUS-0071,46-55,Current Account,Wales,App,30,2238,0
+CUS-0072,46-55,Current Account,Midlands,Phone,28,21272,0
+CUS-0073,36-45,Current Account,Scotland,Branch,5,10944,1
+CUS-0074,46-55,Savings Account,North West,Online,9,19243,3
+CUS-0075,36-45,Home Insurance,South East,Branch,1,2299,0
+CUS-0076,36-45,Current Account,Scotland,Branch,26,4477,0
+CUS-0077,65+,Current Account,South East,Online,76,8744,1
+CUS-0078,46-55,Personal Loan,South East,Branch,18,1731,2
+CUS-0079,26-35,Mortgage,South East,Phone,3,1470,0
+CUS-0080,26-35,Home Insurance,Midlands,Branch,51,12450,1
+CUS-0081,26-35,Current Account,London,App,4,2572,0
+CUS-0082,36-45,Home Insurance,South East,Branch,55,8302,1
+CUS-0083,26-35,Savings Account,Scotland,Branch,15,2307,2
+CUS-0084,18-25,Personal Loan,London,Online,17,656,1
+CUS-0085,36-45,Home Insurance,South East,Online,58,18452,1
+CUS-0086,56-65,Home Insurance,London,App,42,10949,2
+CUS-0087,36-45,Credit Card,South East,Online,6,18354,0
+CUS-0088,46-55,Personal Loan,South East,Branch,54,4604,1
+CUS-0089,46-55,Home Insurance,Wales,Online,28,15657,2
+CUS-0090,56-65,Home Insurance,North East,Online,24,907,0
+CUS-0091,56-65,Current Account,Scotland,Phone,75,10322,2
+CUS-0092,26-35,Current Account,London,App,67,22037,2
+CUS-0093,36-45,Savings Account,Wales,Online,85,5176,2
+CUS-0094,26-35,Savings Account,London,Online,18,3209,0
+CUS-0095,36-45,Personal Loan,Scotland,Phone,8,1741,0
+CUS-0096,26-35,Savings Account,South East,Phone,1,2369,0
+CUS-0097,65+,Savings Account,Midlands,App,4,4230,0
+CUS-0098,56-65,Credit Card,Wales,Online,44,2793,0
+CUS-0099,36-45,Personal Loan,Wales,Online,27,1493,2
+CUS-0100,65+,Home Insurance,Midlands,Phone,18,1074,0
+CUS-0101,26-35,Current Account,London,Phone,12,3167,0
+CUS-0102,18-25,Home Insurance,Scotland,Online,1,15002,0
+CUS-0103,36-45,Personal Loan,London,Phone,87,13509,1
+CUS-0104,26-35,Current Account,North West,Online,29,4431,2
+CUS-0105,36-45,Personal Loan,Scotland,Online,61,7641,0
+CUS-0106,56-65,Home Insurance,North West,Branch,23,1330,0
+CUS-0107,26-35,Current Account,Midlands,App,21,6533,2
+CUS-0108,46-55,Home Insurance,Midlands,Phone,23,12873,0
+CUS-0109,26-35,Mortgage,North West,Phone,25,1646,3
+CUS-0110,18-25,Current Account,London,App,65,2540,0
+CUS-0111,26-35,Personal Loan,Midlands,Phone,14,4414,1
+CUS-0112,46-55,Savings Account,South East,Branch,9,6754,0
+CUS-0113,18-25,Personal Loan,Midlands,Branch,48,1619,0
+CUS-0114,36-45,Home Insurance,North West,Phone,19,20194,1
+CUS-0115,36-45,Current Account,London,Online,46,24872,0
+CUS-0116,46-55,Savings Account,London,Online,32,21483,1
+CUS-0117,46-55,Home Insurance,Midlands,Online,76,10942,1
+CUS-0118,46-55,Current Account,Scotland,Online,1,34454,1
+CUS-0119,65+,Home Insurance,Wales,Branch,101,4361,1
+CUS-0120,46-55,Credit Card,South East,Phone,23,60902,0
+CUS-0121,36-45,Personal Loan,Wales,Phone,48,3226,0
+CUS-0122,26-35,Current Account,Wales,Branch,40,10454,0
+CUS-0123,36-45,Current Account,South East,Branch,57,11923,0
+CUS-0124,56-65,Personal Loan,Midlands,Phone,98,3499,0
+CUS-0125,65+,Current Account,London,App,95,6855,0
+CUS-0126,46-55,Credit Card,Wales,Branch,13,16002,0
+CUS-0127,56-65,Credit Card,South East,Online,9,2309,0
+CUS-0128,18-25,Credit Card,North East,Phone,43,1999,2
+CUS-0129,26-35,Current Account,Midlands,App,1,8120,2
+CUS-0130,26-35,Personal Loan,North West,Online,115,12864,2
+CUS-0131,18-25,Savings Account,London,App,74,34927,0
+CUS-0132,46-55,Current Account,London,Online,45,4491,0
+CUS-0133,26-35,Credit Card,London,Branch,83,46044,1
+CUS-0134,18-25,Home Insurance,London,Online,5,1789,2
+CUS-0135,65+,Current Account,Wales,Phone,2,724,0
+CUS-0136,26-35,Home Insurance,South East,Branch,151,13445,0
+CUS-0137,18-25,Current Account,London,Online,27,18246,1
+CUS-0138,18-25,Personal Loan,Scotland,App,3,13398,0
+CUS-0139,46-55,Home Insurance,London,Phone,22,30378,1
+CUS-0140,46-55,Current Account,London,Online,111,27885,1
+CUS-0141,46-55,Current Account,Scotland,Phone,52,10391,2
+CUS-0142,65+,Current Account,North West,Online,1,2032,1
+CUS-0143,36-45,Home Insurance,London,Phone,29,7331,1
+CUS-0144,36-45,Savings Account,Wales,Branch,9,5637,2
+CUS-0145,65+,Home Insurance,London,Online,3,15311,2
+CUS-0146,56-65,Current Account,Midlands,Online,8,10518,0
+CUS-0147,36-45,Home Insurance,Midlands,App,14,5074,2
+CUS-0148,26-35,Personal Loan,Midlands,Online,22,12468,0
+CUS-0149,46-55,Current Account,South East,Online,53,4877,0
+CUS-0150,65+,Home Insurance,London,Online,9,17847,2
+CUS-0151,36-45,Current Account,South East,Online,116,6822,1
+CUS-0152,56-65,Current Account,Midlands,App,20,3577,2
+CUS-0153,65+,Credit Card,London,Phone,17,58675,2
+CUS-0154,36-45,Current Account,North West,App,38,30595,0
+CUS-0155,36-45,Personal Loan,South East,Phone,79,4467,0
+CUS-0156,46-55,Savings Account,London,Online,69,6587,3
+CUS-0157,36-45,Savings Account,Scotland,Online,27,3335,0
+CUS-0158,56-65,Credit Card,London,Phone,31,25913,4
+CUS-0159,18-25,Credit Card,Wales,Online,9,2587,3
+CUS-0160,26-35,Credit Card,North West,Phone,92,65973,2
+CUS-0161,26-35,Current Account,South East,Online,9,2762,1
+CUS-0162,46-55,Current Account,Wales,Online,59,6848,2
+CUS-0163,36-45,Savings Account,London,Phone,11,1036,1
+CUS-0164,26-35,Savings Account,London,Phone,72,5928,1
+CUS-0165,26-35,Credit Card,South East,Phone,3,16594,2
+CUS-0166,46-55,Personal Loan,North East,Online,16,497,2
+CUS-0167,46-55,Personal Loan,London,App,115,9137,2
+CUS-0168,26-35,Home Insurance,London,Phone,3,230,2
+CUS-0169,65+,Personal Loan,Scotland,Branch,20,40156,1
+CUS-0170,46-55,Home Insurance,Midlands,Online,23,15593,1
+CUS-0171,36-45,Personal Loan,Wales,Phone,19,883,1
+CUS-0172,36-45,Current Account,Midlands,App,92,25950,3
+CUS-0173,26-35,Personal Loan,North East,Phone,4,10839,0
+CUS-0174,56-65,Current Account,North East,Branch,1,14749,2
+CUS-0175,26-35,Current Account,South East,Online,16,3870,1
+CUS-0176,26-35,Savings Account,Wales,Online,80,1173,0
+CUS-0177,56-65,Savings Account,North West,Phone,2,1919,0
+CUS-0178,36-45,Savings Account,Scotland,Online,27,1974,1
+CUS-0179,26-35,Current Account,South East,App,157,7328,3
+CUS-0180,46-55,Current Account,Midlands,App,183,43255,0
+CUS-0181,36-45,Personal Loan,London,Branch,14,1006,1
+CUS-0182,65+,Savings Account,Scotland,App,3,14657,1
+CUS-0183,46-55,Current Account,Wales,App,1,3455,1
+CUS-0184,26-35,Credit Card,South East,App,1,31751,1
+CUS-0185,26-35,Personal Loan,London,App,27,10578,2
+CUS-0186,26-35,Mortgage,North West,Online,17,7474,2
+CUS-0187,18-25,Current Account,North West,Branch,25,542,0
+CUS-0188,46-55,Personal Loan,South East,Online,7,3864,0
+CUS-0189,46-55,Current Account,London,App,21,4519,1
+CUS-0190,65+,Savings Account,Wales,Branch,22,1842,0
+CUS-0191,36-45,Current Account,London,Phone,5,15614,0
+CUS-0192,36-45,Personal Loan,South East,Phone,33,17096,0
+CUS-0193,26-35,Current Account,North East,Online,11,1099,0
+CUS-0194,18-25,Current Account,Wales,Phone,58,74348,2
+CUS-0195,36-45,Personal Loan,Scotland,Phone,1,32574,0
+CUS-0196,26-35,Personal Loan,South East,Online,13,2497,1
+CUS-0197,46-55,Current Account,South East,Online,18,6900,0
+CUS-0198,26-35,Mortgage,North East,Branch,34,1430,0
+CUS-0199,36-45,Credit Card,London,Branch,24,869,0
+CUS-0200,26-35,Credit Card,Wales,App,17,3805,1
+CUS-0201,65+,Credit Card,Scotland,Phone,21,3328,1
+CUS-0202,26-35,Credit Card,Midlands,Online,250,74007,2
+CUS-0203,36-45,Current Account,London,App,8,1198,2
+CUS-0204,26-35,Personal Loan,South East,Online,20,16266,1
+CUS-0205,26-35,Mortgage,North East,Phone,18,21928,0
+CUS-0206,18-25,Home Insurance,South East,Branch,2,4271,0
+CUS-0207,56-65,Credit Card,Scotland,App,19,9645,1
+CUS-0208,18-25,Mortgage,London,Branch,9,1056,2
+CUS-0209,65+,Current Account,North West,Branch,2,2392,0
+CUS-0210,65+,Savings Account,Midlands,Online,48,369,0
+CUS-0211,46-55,Mortgage,North West,Online,13,7109,1
+CUS-0212,18-25,Current Account,Midlands,Online,5,656,0
+CUS-0213,26-35,Credit Card,Wales,Online,114,37257,2
+CUS-0214,56-65,Credit Card,South East,Phone,33,4024,2
+CUS-0215,56-65,Mortgage,Midlands,Online,27,5362,1
+CUS-0216,46-55,Credit Card,North East,Online,69,1220,0
+CUS-0217,36-45,Savings Account,London,Branch,22,3130,3
+CUS-0218,36-45,Personal Loan,Midlands,Online,75,10215,0
+CUS-0219,56-65,Personal Loan,South East,App,78,1091,1
+CUS-0220,46-55,Home Insurance,London,Branch,17,3862,0
+CUS-0221,46-55,Current Account,Midlands,Online,44,2004,2
+CUS-0222,36-45,Savings Account,Midlands,Phone,43,2103,0
+CUS-0223,26-35,Home Insurance,Midlands,Phone,61,44925,0
+CUS-0224,26-35,Personal Loan,Scotland,Online,77,5633,0
+CUS-0225,26-35,Savings Account,North West,App,17,2503,0
+CUS-0226,46-55,Current Account,Wales,Online,47,6392,0
+CUS-0227,56-65,Home Insurance,South East,Phone,1,4529,1
+CUS-0228,36-45,Savings Account,Scotland,App,11,10462,2
+CUS-0229,26-35,Home Insurance,London,Online,6,4608,2
+CUS-0230,36-45,Credit Card,South East,Branch,49,5934,2
+CUS-0231,26-35,Savings Account,North West,App,8,17885,0
+CUS-0232,36-45,Credit Card,Midlands,App,62,5076,0
+CUS-0233,18-25,Current Account,Midlands,Phone,14,1971,2
+CUS-0234,46-55,Current Account,South East,Phone,10,2450,1
+CUS-0235,26-35,Home Insurance,South East,Branch,42,6217,1
+CUS-0236,36-45,Savings Account,London,Phone,60,14125,0
+CUS-0237,26-35,Credit Card,Midlands,Online,88,470,1
+CUS-0238,56-65,Home Insurance,London,Phone,9,1961,0
+CUS-0239,65+,Current Account,South East,Online,10,650,1
+CUS-0240,56-65,Home Insurance,North West,Branch,24,8041,0
+CUS-0241,36-45,Mortgage,Midlands,Online,1,4570,1
+CUS-0242,26-35,Current Account,Midlands,Phone,3,1768,2
+CUS-0243,65+,Current Account,London,Online,17,2057,1
+CUS-0244,56-65,Current Account,North West,Online,30,3711,1
+CUS-0245,65+,Savings Account,North West,App,4,1255,0
+CUS-0246,18-25,Home Insurance,Wales,Phone,4,46174,0
+CUS-0247,26-35,Personal Loan,South East,Online,16,418,1
+CUS-0248,46-55,Personal Loan,London,Phone,18,17006,1
+CUS-0249,26-35,Current Account,London,Branch,22,2025,0
+CUS-0250,46-55,Personal Loan,Midlands,Branch,68,9029,1
+CUS-0251,26-35,Current Account,Midlands,Online,46,750,1
+CUS-0252,46-55,Current Account,North East,Online,65,63036,1
+CUS-0253,36-45,Current Account,Wales,Phone,4,7863,0
+CUS-0254,18-25,Savings Account,Wales,Branch,44,35870,2
+CUS-0255,46-55,Savings Account,North East,Online,63,6080,0
+CUS-0256,46-55,Credit Card,North West,Online,44,15025,1
+CUS-0257,36-45,Personal Loan,South East,Branch,61,1069,0
+CUS-0258,26-35,Current Account,London,Online,70,1070,2
+CUS-0259,18-25,Credit Card,North West,Branch,109,1231,2
+CUS-0260,46-55,Credit Card,London,Online,6,5222,1
+CUS-0261,26-35,Current Account,London,Phone,140,9023,1
+CUS-0262,18-25,Personal Loan,Wales,App,24,16141,1
+CUS-0263,36-45,Personal Loan,South East,App,5,15628,2
+CUS-0264,46-55,Current Account,Wales,Online,105,322,2
+CUS-0265,26-35,Mortgage,Midlands,Online,8,8797,0
+CUS-0266,18-25,Credit Card,South East,Phone,54,13067,2
+CUS-0267,18-25,Savings Account,South East,Online,23,4830,0
+CUS-0268,56-65,Savings Account,London,Branch,5,7760,0
+CUS-0269,56-65,Personal Loan,North West,App,9,878,2
+CUS-0270,36-45,Current Account,London,App,2,5028,0
+CUS-0271,18-25,Personal Loan,Wales,Branch,63,10824,2
+CUS-0272,26-35,Credit Card,Midlands,Phone,5,5431,0
+CUS-0273,18-25,Current Account,Midlands,Online,59,2313,1
+CUS-0274,46-55,Personal Loan,London,Online,119,4567,0
+CUS-0275,56-65,Home Insurance,Wales,Phone,11,1990,1
+CUS-0276,26-35,Credit Card,Scotland,Phone,29,4243,0
+CUS-0277,56-65,Mortgage,South East,Branch,12,3368,0
+CUS-0278,46-55,Home Insurance,Midlands,Online,85,4502,0
+CUS-0279,36-45,Home Insurance,North West,Phone,27,2094,1
+CUS-0280,36-45,Personal Loan,South East,Online,2,4436,0
+CUS-0281,65+,Personal Loan,North West,Online,99,750,1
+CUS-0282,36-45,Credit Card,Midlands,Phone,5,2150,0
+CUS-0283,36-45,Home Insurance,Scotland,App,2,7481,2
+CUS-0284,46-55,Savings Account,Scotland,Online,66,8741,0
+CUS-0285,36-45,Home Insurance,Scotland,Phone,146,1720,0
+CUS-0286,18-25,Current Account,London,Branch,1,2067,1
+CUS-0287,18-25,Current Account,Midlands,Online,7,28049,1
+CUS-0288,56-65,Personal Loan,Scotland,Online,15,7956,0
+CUS-0289,56-65,Savings Account,Midlands,Branch,31,473,1
+CUS-0290,46-55,Current Account,Scotland,Online,24,23785,1
+CUS-0291,26-35,Home Insurance,Wales,Branch,62,2223,0
+CUS-0292,46-55,Personal Loan,Scotland,Online,18,6450,3
+CUS-0293,26-35,Mortgage,London,Phone,62,5406,0
+CUS-0294,56-65,Home Insurance,Scotland,Phone,111,430,1
+CUS-0295,65+,Savings Account,South East,App,24,973,1
+CUS-0296,46-55,Current Account,South East,App,13,3635,2
+CUS-0297,26-35,Credit Card,Scotland,Phone,76,1628,0
+CUS-0298,46-55,Credit Card,Wales,Phone,22,7170,1
+CUS-0299,65+,Current Account,North West,Online,85,9564,2
+CUS-0300,46-55,Current Account,Midlands,Online,1,2682,0
+CUS-0301,36-45,Savings Account,Midlands,Branch,21,1980,4
+CUS-0302,46-55,Current Account,Wales,Online,7,36053,1
+CUS-0303,56-65,Home Insurance,Scotland,App,16,8253,1
+CUS-0304,56-65,Current Account,South East,App,32,1847,1
+CUS-0305,18-25,Home Insurance,London,Phone,20,3717,0
+CUS-0306,46-55,Current Account,Scotland,App,24,6466,0
+CUS-0307,65+,Current Account,South East,Online,6,1328,1
+CUS-0308,65+,Personal Loan,London,Branch,4,66774,1
+CUS-0309,26-35,Current Account,London,Phone,99,6093,0
+CUS-0310,36-45,Mortgage,North West,Online,3,5755,2
+CUS-0311,26-35,Current Account,Scotland,Branch,18,61652,1
+CUS-0312,26-35,Mortgage,Midlands,Online,21,10048,2
+CUS-0313,56-65,Mortgage,Scotland,Online,33,12502,0
+CUS-0314,56-65,Current Account,London,Online,71,4483,0
+CUS-0315,26-35,Current Account,Scotland,Phone,54,19691,0
+CUS-0316,65+,Credit Card,London,Online,23,1182,0
+CUS-0317,46-55,Credit Card,London,Phone,13,1675,1
+CUS-0318,56-65,Home Insurance,South East,App,11,2254,0
+CUS-0319,65+,Current Account,Midlands,Phone,131,2195,1
+CUS-0320,18-25,Personal Loan,South East,App,3,4728,2
+CUS-0321,18-25,Mortgage,Midlands,App,79,1422,0
+CUS-0322,18-25,Personal Loan,South East,Phone,11,1181,2
+CUS-0323,46-55,Credit Card,London,Phone,62,8232,1
+CUS-0324,46-55,Credit Card,Wales,Online,81,1147,1
+CUS-0325,56-65,Home Insurance,South East,Phone,20,15508,0
+CUS-0326,26-35,Mortgage,North West,Branch,36,11807,1
+CUS-0327,65+,Savings Account,Wales,Online,11,207,2
+CUS-0328,26-35,Credit Card,London,Online,17,19134,3
+CUS-0329,56-65,Savings Account,London,Online,30,4904,1
+CUS-0330,18-25,Savings Account,South East,Branch,54,2322,2
+CUS-0331,18-25,Credit Card,Scotland,Online,11,10741,0
+CUS-0332,56-65,Current Account,London,Branch,32,1376,2
+CUS-0333,56-65,Mortgage,South East,Phone,39,21304,1
+CUS-0334,46-55,Current Account,Scotland,Phone,80,39645,2
+CUS-0335,36-45,Personal Loan,North West,App,28,9692,0
+CUS-0336,36-45,Home Insurance,North East,Branch,44,1229,1
+CUS-0337,36-45,Credit Card,Scotland,Phone,32,3647,1
+CUS-0338,26-35,Home Insurance,North West,App,11,5671,0
+CUS-0339,26-35,Credit Card,North West,Online,4,5517,2
+CUS-0340,18-25,Personal Loan,London,Phone,7,5197,0
+CUS-0341,26-35,Credit Card,North West,Branch,9,2889,4
+CUS-0342,36-45,Current Account,North East,Online,2,1865,2
+CUS-0343,56-65,Current Account,North West,Online,59,7564,0
+CUS-0344,36-45,Current Account,London,Branch,35,5514,0
+CUS-0345,36-45,Home Insurance,South East,Online,1,2155,1
+CUS-0346,65+,Personal Loan,London,Online,66,2949,2
+CUS-0347,46-55,Current Account,Wales,Phone,55,2579,2
+CUS-0348,46-55,Personal Loan,South East,Online,14,1007,2
+CUS-0349,46-55,Credit Card,London,Online,3,1620,0
+CUS-0350,46-55,Personal Loan,Wales,Branch,48,6855,2
+CUS-0351,36-45,Mortgage,London,Branch,50,12905,1
+CUS-0352,26-35,Personal Loan,South East,Phone,21,23935,0
+CUS-0353,46-55,Personal Loan,Midlands,Phone,16,2396,0
+CUS-0354,36-45,Current Account,South East,Online,9,13395,1
+CUS-0355,65+,Current Account,Wales,Phone,29,3906,0
+CUS-0356,18-25,Credit Card,North West,App,15,16391,0
+CUS-0357,36-45,Mortgage,South East,Online,67,8085,0
+CUS-0358,46-55,Credit Card,North West,Phone,38,7566,1
+CUS-0359,36-45,Mortgage,North West,Phone,58,37277,2
+CUS-0360,26-35,Personal Loan,London,App,30,1604,0
+CUS-0361,36-45,Savings Account,Wales,Online,102,2449,2
+CUS-0362,18-25,Current Account,Scotland,Online,24,312,0
+CUS-0363,26-35,Current Account,Wales,Online,17,2670,1
+CUS-0364,18-25,Credit Card,North East,Phone,17,17061,1
+CUS-0365,46-55,Current Account,North West,Phone,111,920,0
+CUS-0366,36-45,Savings Account,London,Phone,25,5679,2
+CUS-0367,46-55,Current Account,Midlands,Online,5,2169,1
+CUS-0368,46-55,Current Account,Wales,Online,41,83091,0
+CUS-0369,36-45,Current Account,Midlands,App,22,3518,1
+CUS-0370,26-35,Current Account,North West,App,47,1471,0
+CUS-0371,36-45,Personal Loan,Midlands,Branch,7,1197,0
+CUS-0372,65+,Current Account,Midlands,Branch,90,14111,1
+CUS-0373,56-65,Savings Account,London,Branch,1,5081,1
+CUS-0374,36-45,Current Account,London,Branch,39,3321,1
+CUS-0375,36-45,Home Insurance,London,Branch,21,446,1
+CUS-0376,18-25,Savings Account,Midlands,App,42,1105,3
+CUS-0377,36-45,Current Account,North West,Branch,34,729,1
+CUS-0378,36-45,Current Account,North West,Online,54,19631,0
+CUS-0379,56-65,Mortgage,London,Phone,1,3755,0
+CUS-0380,46-55,Current Account,Scotland,Online,10,1782,0
+CUS-0381,65+,Current Account,Scotland,Branch,9,23409,0
+CUS-0382,36-45,Mortgage,London,Online,43,2061,2
+CUS-0383,46-55,Home Insurance,North East,Online,12,5823,0
+CUS-0384,26-35,Current Account,Midlands,Online,74,2181,1
+CUS-0385,26-35,Credit Card,Scotland,Online,62,5552,1
+CUS-0386,18-25,Personal Loan,Midlands,Online,5,11239,0
+CUS-0387,26-35,Home Insurance,London,Online,74,4353,0
+CUS-0388,56-65,Current Account,South East,App,17,1411,0
+CUS-0389,18-25,Current Account,Wales,Online,152,29999,1
+CUS-0390,18-25,Mortgage,London,Phone,18,1077,0
+CUS-0391,46-55,Savings Account,North East,Phone,28,7596,0
+CUS-0392,26-35,Current Account,North East,Online,63,3656,0
+CUS-0393,46-55,Personal Loan,Scotland,Online,7,18662,1
+CUS-0394,65+,Savings Account,North East,Online,50,4038,0
+CUS-0395,26-35,Savings Account,North West,Phone,14,22158,0
+CUS-0396,46-55,Credit Card,South East,Phone,43,722,2
+CUS-0397,26-35,Home Insurance,South East,Online,10,4486,0
+CUS-0398,56-65,Personal Loan,North West,Branch,19,6591,0
+CUS-0399,36-45,Credit Card,Midlands,Phone,21,37487,1
+CUS-0400,46-55,Current Account,London,Phone,50,1101,1
+CUS-0401,46-55,Personal Loan,London,Phone,92,10679,1
+CUS-0402,36-45,Credit Card,London,Online,37,4556,1
+CUS-0403,18-25,Savings Account,South East,Phone,85,2825,0
+CUS-0404,36-45,Current Account,Midlands,Phone,6,22809,0
+CUS-0405,26-35,Savings Account,Wales,Phone,55,7416,1
+CUS-0406,36-45,Savings Account,North West,Online,78,2038,1
+CUS-0407,26-35,Current Account,Wales,Online,5,1162,0
+CUS-0408,36-45,Home Insurance,South East,Branch,44,5954,0
+CUS-0409,65+,Mortgage,South East,Online,203,1965,1
+CUS-0410,65+,Savings Account,South East,Online,50,9536,0
+CUS-0411,46-55,Current Account,South East,Online,9,267,0
+CUS-0412,46-55,Savings Account,Wales,Branch,35,9835,1
+CUS-0413,26-35,Current Account,Scotland,App,10,1788,0
+CUS-0414,56-65,Savings Account,Midlands,Online,16,15139,1
+CUS-0415,26-35,Home Insurance,Scotland,Online,8,5002,2
+CUS-0416,65+,Savings Account,London,Branch,20,4558,0
+CUS-0417,18-25,Current Account,Scotland,App,14,3496,0
+CUS-0418,26-35,Home Insurance,North West,Phone,20,3982,0
+CUS-0419,26-35,Savings Account,North West,Phone,35,6078,0
+CUS-0420,18-25,Current Account,London,Phone,7,4324,0
+CUS-0421,36-45,Current Account,Midlands,Branch,7,1514,2
+CUS-0422,36-45,Current Account,London,Online,1,3124,0
+CUS-0423,65+,Current Account,London,Branch,7,4125,1
+CUS-0424,36-45,Home Insurance,North West,Online,70,2985,0
+CUS-0425,36-45,Savings Account,London,Online,21,4727,1
+CUS-0426,26-35,Mortgage,Scotland,App,19,489,1
+CUS-0427,26-35,Savings Account,North West,Phone,65,77727,2
+CUS-0428,26-35,Savings Account,London,Online,6,14726,0
+CUS-0429,46-55,Current Account,Midlands,App,18,27267,4
+CUS-0430,36-45,Current Account,North West,Online,31,13758,0
+CUS-0431,46-55,Personal Loan,London,Online,15,2287,0
+CUS-0432,18-25,Savings Account,London,Online,12,5771,1
+CUS-0433,46-55,Credit Card,North West,App,28,10709,0
+CUS-0434,26-35,Home Insurance,Scotland,Online,4,647,2
+CUS-0435,18-25,Current Account,Wales,Branch,11,21036,0
+CUS-0436,26-35,Current Account,North West,Online,14,2317,2
+CUS-0437,36-45,Home Insurance,London,Online,3,7235,1
+CUS-0438,18-25,Current Account,Wales,Online,24,3084,2
+CUS-0439,36-45,Current Account,London,Phone,41,17707,0
+CUS-0440,46-55,Current Account,Midlands,Phone,10,1832,1
+CUS-0441,26-35,Personal Loan,London,Branch,7,2903,1
+CUS-0442,36-45,Savings Account,North West,Phone,34,4957,0
+CUS-0443,26-35,Current Account,Wales,Phone,122,2368,1
+CUS-0444,36-45,Credit Card,South East,Phone,7,1493,1
+CUS-0445,56-65,Current Account,Midlands,Online,7,609,0
+CUS-0446,65+,Savings Account,South East,Phone,20,4904,1
+CUS-0447,36-45,Personal Loan,London,Online,47,995,1
+CUS-0448,26-35,Savings Account,Midlands,Online,46,18878,1
+CUS-0449,46-55,Savings Account,London,Phone,31,760,1
+CUS-0450,26-35,Current Account,London,Online,47,1691,1
+CUS-0451,36-45,Savings Account,Scotland,Phone,35,17368,1
+CUS-0452,18-25,Home Insurance,Midlands,Branch,23,2908,1
+CUS-0453,65+,Home Insurance,South East,Branch,33,4848,0
+CUS-0454,46-55,Current Account,South East,Branch,80,34096,0
+CUS-0455,18-25,Personal Loan,North West,Online,55,1338,0
+CUS-0456,46-55,Mortgage,Scotland,App,1,45201,0
+CUS-0457,18-25,Current Account,London,Online,30,648,2
+CUS-0458,36-45,Credit Card,London,Online,86,1229,0
+CUS-0459,26-35,Current Account,Midlands,Branch,31,11899,1
+CUS-0460,65+,Current Account,North West,Online,54,12724,0
+CUS-0461,26-35,Current Account,Scotland,App,17,1536,1
+CUS-0462,46-55,Current Account,South East,Online,38,1260,1
+CUS-0463,56-65,Mortgage,North West,Branch,33,3347,1
+CUS-0464,36-45,Credit Card,Midlands,Online,21,14755,2
+CUS-0465,46-55,Current Account,Scotland,Branch,13,9650,1
+CUS-0466,36-45,Home Insurance,Midlands,Phone,14,2291,1
+CUS-0467,36-45,Personal Loan,London,Phone,33,10090,0
+CUS-0468,26-35,Personal Loan,Midlands,Branch,74,5870,1
+CUS-0469,26-35,Credit Card,South East,Online,30,12622,1
+CUS-0470,26-35,Savings Account,London,Branch,1,2649,1
+CUS-0471,26-35,Savings Account,Scotland,Online,14,1621,1
+CUS-0472,46-55,Savings Account,Midlands,Online,30,1453,1
+CUS-0473,46-55,Credit Card,London,App,32,1185,2
+CUS-0474,36-45,Mortgage,London,Phone,110,737,1
+CUS-0475,56-65,Personal Loan,Scotland,Branch,5,4897,2
+CUS-0476,36-45,Current Account,Wales,Branch,64,57474,1
+CUS-0477,26-35,Personal Loan,Scotland,App,30,2224,1
+CUS-0478,36-45,Personal Loan,Wales,Branch,24,26786,0
+CUS-0479,36-45,Personal Loan,North West,Phone,8,20402,1
+CUS-0480,46-55,Savings Account,Wales,Online,18,901,0
+CUS-0481,56-65,Personal Loan,North West,Online,12,12445,0
+CUS-0482,56-65,Home Insurance,London,Phone,49,5697,1
+CUS-0483,26-35,Current Account,South East,Online,30,632,3
+CUS-0484,36-45,Credit Card,South East,App,61,18140,0
+CUS-0485,46-55,Credit Card,Midlands,Online,1,3289,4
+CUS-0486,65+,Mortgage,North West,Online,22,7723,0
+CUS-0487,36-45,Credit Card,London,Branch,4,2679,2
+CUS-0488,18-25,Savings Account,South East,Online,88,4587,1
+CUS-0489,26-35,Savings Account,Wales,Online,55,1232,1
+CUS-0490,26-35,Personal Loan,Wales,App,48,9741,1
+CUS-0491,18-25,Credit Card,South East,Online,19,11565,1
+CUS-0492,26-35,Credit Card,London,Online,10,9870,0
+CUS-0493,18-25,Savings Account,North West,Online,1,1835,0
+CUS-0494,26-35,Mortgage,South East,Branch,47,2151,0
+CUS-0495,56-65,Personal Loan,South East,Online,25,19189,0
+CUS-0496,56-65,Personal Loan,London,Online,57,4120,0
+CUS-0497,26-35,Personal Loan,Midlands,Online,36,2102,1
+CUS-0498,26-35,Home Insurance,Wales,Online,19,34043,0
+CUS-0499,36-45,Credit Card,Scotland,Phone,9,3238,0
+CUS-0500,36-45,Savings Account,Wales,App,18,13382,0

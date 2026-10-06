@@ -1,0 +1,920 @@
+ticket_id,customer_id,ticket_date,category,resolution_time_hrs,resolved,ticket_text
+TKT-000001,CUS-0001,2026-02-17,Fraud Query,5,True,My card details have been used without my permission at an online retailer.
+TKT-000002,CUS-0002,2025-08-29,Service Failure,1,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000003,CUS-0002,2025-12-02,Product Query,7,True,Can you explain the early repayment charge on my loan?
+TKT-000004,CUS-0003,2026-03-24,Fraud Query,83,True,There are multiple small transactions I did not authorise on my account.
+TKT-000005,CUS-0004,2025-10-27,Product Query,39,True,What is the process for increasing my credit limit?
+TKT-000006,CUS-0005,2026-03-03,Product Query,24,True,I need to know what the excess is on my home insurance policy.
+TKT-000007,CUS-0006,2026-01-19,Complaint,18,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000008,CUS-0007,2026-05-18,Account Access,4,False,My two-factor authentication is not sending the verification code.
+TKT-000009,CUS-0008,2025-08-28,Product Query,7,True,What is the process for increasing my credit limit?
+TKT-000010,CUS-0008,2025-05-29,Billing,5,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000011,CUS-0008,2025-09-26,Account Access,20,True,The app keeps crashing every time I try to check my balance.
+TKT-000012,CUS-0008,2026-03-11,Account Access,32,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000013,CUS-0009,2025-12-17,Product Query,4,True,I want to understand what interest rate applies to my savings account.
+TKT-000014,CUS-0010,2026-04-02,Product Query,39,True,I want to understand what interest rate applies to my savings account.
+TKT-000015,CUS-0010,2025-11-09,Account Access,2,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000016,CUS-0010,2025-10-15,Service Failure,98,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000017,CUS-0011,2025-05-29,Complaint,29,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000018,CUS-0011,2025-07-21,Billing,2,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000019,CUS-0011,2026-03-05,Billing,1,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000020,CUS-0012,2025-08-06,Billing,48,True,I have been waiting three weeks for a billing dispute to be resolved. This has caused me significant financial distress and I expect immediate action.
+TKT-000021,CUS-0012,2025-12-23,Account Access,16,False,My account has been locked and I need it unlocked as soon as possible.
+TKT-000022,CUS-0013,2026-05-08,Billing,6,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000023,CUS-0013,2025-09-04,Billing,13,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000024,CUS-0013,2026-04-14,Account Access,34,True,I have been trying to access my account for two days without success.
+TKT-000025,CUS-0014,2025-11-26,Product Query,1,True,Can you explain the early repayment charge on my loan?
+TKT-000026,CUS-0015,2025-06-20,Complaint,5,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000027,CUS-0015,2025-10-14,Complaint,10,False,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000028,CUS-0015,2025-07-02,Product Query,1,True,I would like to know the terms for switching my mortgage.
+TKT-000029,CUS-0015,2025-06-12,Fraud Query,6,True,I received an email claiming to be from you asking for my password.
+TKT-000030,CUS-0016,2025-07-15,Account Access,57,True,I cannot log into my online account and the reset link is not working.
+TKT-000031,CUS-0017,2026-01-01,Product Query,2,True,I would like to know the terms for switching my mortgage.
+TKT-000032,CUS-0017,2026-02-17,Service Failure,47,True,The online banking was unavailable for over 12 hours with no communication from you. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000033,CUS-0017,2026-03-01,Billing,3,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000034,CUS-0018,2025-09-24,Billing,1,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000035,CUS-0018,2025-08-03,Complaint,1,True,This is the worst experience I have ever had with a financial company.
+TKT-000036,CUS-0019,2025-06-25,Billing,16,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000037,CUS-0020,2025-11-02,Account Access,8,True,The app keeps crashing every time I try to check my balance.
+TKT-000038,CUS-0020,2025-11-06,Product Query,8,True,What is the process for increasing my credit limit?
+TKT-000039,CUS-0020,2025-08-19,Product Query,24,True,What is the process for increasing my credit limit?
+TKT-000040,CUS-0020,2026-03-05,Service Failure,29,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000041,CUS-0021,2025-06-04,Product Query,27,True,I need to know what the excess is on my home insurance policy.
+TKT-000042,CUS-0021,2025-10-29,Product Query,4,False,I would like to know the terms for switching my mortgage.
+TKT-000043,CUS-0021,2025-10-23,Product Query,5,True,I need to know what the excess is on my home insurance policy.
+TKT-000044,CUS-0022,2026-02-20,Billing,4,False,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000045,CUS-0023,2025-12-21,Fraud Query,1,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000046,CUS-0024,2026-03-19,Billing,2,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000047,CUS-0025,2026-03-03,Billing,22,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000048,CUS-0026,2025-06-12,Account Access,73,True,I cannot log into my online account and the reset link is not working.
+TKT-000049,CUS-0026,2026-03-28,Refund Request,43,True,I cancelled my policy within the cooling off period and am still waiting for a refund.
+TKT-000050,CUS-0027,2025-12-04,Billing,1,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000051,CUS-0027,2025-06-04,Fraud Query,6,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000052,CUS-0027,2026-02-07,Fraud Query,29,False,I received an email claiming to be from you asking for my password.
+TKT-000053,CUS-0028,2026-05-23,Account Access,5,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000054,CUS-0028,2026-03-17,Complaint,7,False,This is the worst experience I have ever had with a financial company.
+TKT-000055,CUS-0028,2026-04-28,Complaint,35,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000056,CUS-0029,2026-02-09,Product Query,20,True,I need to know what the excess is on my home insurance policy.
+TKT-000057,CUS-0030,2025-06-14,Service Failure,2,True,My card was declined at the supermarket even though my account is in credit. I am absolutely furious about how this has been handled.
+TKT-000058,CUS-0031,2025-06-03,Refund Request,11,False,The product was misrepresented and I would like a full refund.
+TKT-000059,CUS-0032,2025-11-13,Billing,17,True,There is an unexplained charge of £45 on my account from last Tuesday. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000060,CUS-0032,2026-04-02,Billing,9,True,The direct debit was taken on the wrong date causing me to go overdrawn. This is disgusting. I have never experienced such poor service.
+TKT-000061,CUS-0032,2025-07-22,Product Query,9,True,I need to know what the excess is on my home insurance policy. This has caused me significant financial distress and I expect immediate action.
+TKT-000062,CUS-0032,2026-02-04,Product Query,27,True,I would like to know the terms for switching my mortgage. I am absolutely furious about how this has been handled.
+TKT-000063,CUS-0033,2025-10-15,Product Query,7,True,I need to know what the excess is on my home insurance policy.
+TKT-000064,CUS-0034,2025-08-01,Account Access,6,True,I have been trying to access my account for two days without success.
+TKT-000065,CUS-0035,2026-01-12,Product Query,10,False,I want to understand what interest rate applies to my savings account.
+TKT-000066,CUS-0035,2025-06-01,Fraud Query,13,False,My card details have been used without my permission at an online retailer.
+TKT-000067,CUS-0035,2025-12-12,Fraud Query,6,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000068,CUS-0036,2025-07-21,Billing,38,True,The direct debit was taken on the wrong date causing me to go overdrawn. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000069,CUS-0037,2025-12-01,Service Failure,29,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000070,CUS-0038,2025-07-05,Complaint,1,True,I want to make a formal complaint about how my case has been handled.
+TKT-000071,CUS-0038,2026-03-02,Product Query,3,True,Can you explain the early repayment charge on my loan?
+TKT-000072,CUS-0039,2026-04-13,Complaint,21,True,This is the worst experience I have ever had with a financial company.
+TKT-000073,CUS-0040,2025-08-11,Fraud Query,8,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000074,CUS-0041,2025-10-21,Product Query,7,True,I need to know what the excess is on my home insurance policy.
+TKT-000075,CUS-0041,2026-03-01,Service Failure,2,True,My payment did not go through despite sufficient funds in my account.
+TKT-000076,CUS-0042,2025-12-10,Billing,13,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000077,CUS-0042,2026-05-13,Product Query,4,False,I need to know what the excess is on my home insurance policy.
+TKT-000078,CUS-0043,2025-11-26,Service Failure,20,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000079,CUS-0043,2026-02-06,Billing,32,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000080,CUS-0043,2025-06-10,Billing,5,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000081,CUS-0044,2025-11-16,Fraud Query,10,True,There are multiple small transactions I did not authorise on my account.
+TKT-000082,CUS-0044,2026-04-16,Service Failure,19,False,The service has been unreliable for weeks and is affecting my business.
+TKT-000083,CUS-0044,2026-01-21,Product Query,14,True,Can you explain the early repayment charge on my loan?
+TKT-000084,CUS-0044,2025-10-09,Billing,8,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000085,CUS-0045,2025-09-30,Complaint,9,True,This is the worst experience I have ever had with a financial company. I am absolutely furious about how this has been handled.
+TKT-000086,CUS-0045,2026-05-17,Service Failure,15,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000087,CUS-0046,2025-11-03,Account Access,20,False,My account has been locked and I need it unlocked as soon as possible.
+TKT-000088,CUS-0047,2026-02-11,Billing,18,False,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000089,CUS-0048,2026-03-02,Refund Request,3,True,My overpayment from last month has not been returned to my account.
+TKT-000090,CUS-0048,2025-11-19,Fraud Query,9,True,There are multiple small transactions I did not authorise on my account.
+TKT-000091,CUS-0049,2026-05-17,Fraud Query,11,False,I received an email claiming to be from you asking for my password.
+TKT-000092,CUS-0049,2025-09-22,Refund Request,11,True,I need a refund for a duplicate payment made during the system outage.
+TKT-000093,CUS-0050,2025-06-12,Complaint,23,True,This is the worst experience I have ever had with a financial company.
+TKT-000094,CUS-0051,2025-08-28,Product Query,4,True,I need to know what the excess is on my home insurance policy.
+TKT-000095,CUS-0052,2025-12-13,Billing,24,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000096,CUS-0052,2026-01-07,Account Access,15,True,I have been trying to access my account for two days without success.
+TKT-000097,CUS-0053,2026-05-02,Account Access,15,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000098,CUS-0054,2025-06-03,Account Access,14,True,The app keeps crashing every time I try to check my balance.
+TKT-000099,CUS-0055,2026-01-11,Fraud Query,21,False,There are multiple small transactions I did not authorise on my account.
+TKT-000100,CUS-0056,2025-08-15,Product Query,6,True,Can you explain the early repayment charge on my loan?
+TKT-000101,CUS-0056,2025-09-02,Complaint,6,True,This is the worst experience I have ever had with a financial company.
+TKT-000102,CUS-0057,2025-11-11,Product Query,29,True,Can you explain the early repayment charge on my loan?
+TKT-000103,CUS-0058,2026-05-06,Fraud Query,6,False,Someone has made three purchases in Germany but I am in the UK.
+TKT-000104,CUS-0058,2025-11-21,Billing,8,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000105,CUS-0059,2025-10-10,Product Query,29,True,I would like to know the terms for switching my mortgage.
+TKT-000106,CUS-0060,2025-05-29,Product Query,1,True,I would like to know the terms for switching my mortgage.
+TKT-000107,CUS-0061,2026-02-19,Product Query,1,True,I want to understand what interest rate applies to my savings account.
+TKT-000108,CUS-0062,2025-07-22,Product Query,40,True,Can you explain the early repayment charge on my loan?
+TKT-000109,CUS-0063,2026-05-11,Product Query,24,True,Can you explain the early repayment charge on my loan?
+TKT-000110,CUS-0063,2026-04-24,Service Failure,21,True,My payment did not go through despite sufficient funds in my account.
+TKT-000111,CUS-0063,2025-06-20,Product Query,11,True,I want to understand what interest rate applies to my savings account.
+TKT-000112,CUS-0064,2025-08-01,Account Access,6,True,I cannot log into my online account and the reset link is not working.
+TKT-000113,CUS-0065,2025-12-21,Product Query,9,False,Can you explain the early repayment charge on my loan? Your team is completely unhelpful and I am done waiting.
+TKT-000114,CUS-0066,2026-03-02,Billing,68,False,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000115,CUS-0066,2025-09-18,Complaint,11,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000116,CUS-0067,2026-04-03,Service Failure,6,True,My payment did not go through despite sufficient funds in my account.
+TKT-000117,CUS-0067,2025-05-31,Billing,32,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000118,CUS-0067,2026-03-29,Refund Request,15,True,I need a refund for a duplicate payment made during the system outage.
+TKT-000119,CUS-0068,2025-09-25,Fraud Query,23,False,Someone has made three purchases in Germany but I am in the UK.
+TKT-000120,CUS-0069,2025-08-12,Account Access,20,True,I cannot log into my online account and the reset link is not working. I am absolutely furious about how this has been handled.
+TKT-000121,CUS-0069,2025-06-12,Billing,7,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000122,CUS-0070,2025-07-08,Service Failure,13,False,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000123,CUS-0070,2025-09-29,Account Access,5,True,I cannot log into my online account and the reset link is not working.
+TKT-000124,CUS-0071,2025-09-29,Product Query,6,True,I would like to know the terms for switching my mortgage.
+TKT-000125,CUS-0071,2026-01-08,Account Access,10,False,I cannot log into my online account and the reset link is not working.
+TKT-000126,CUS-0072,2026-01-30,Product Query,6,True,What is the process for increasing my credit limit?
+TKT-000127,CUS-0072,2025-09-05,Billing,3,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000128,CUS-0073,2025-12-09,Product Query,23,True,I want to understand what interest rate applies to my savings account.
+TKT-000129,CUS-0073,2026-02-04,Fraud Query,39,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000130,CUS-0073,2025-09-04,Product Query,3,True,I want to understand what interest rate applies to my savings account.
+TKT-000131,CUS-0074,2025-07-07,Account Access,13,True,My two-factor authentication is not sending the verification code.
+TKT-000132,CUS-0075,2026-02-15,Product Query,10,True,What is the process for increasing my credit limit?
+TKT-000133,CUS-0075,2025-10-06,Account Access,16,True,My two-factor authentication is not sending the verification code.
+TKT-000134,CUS-0075,2026-04-13,Account Access,10,True,My two-factor authentication is not sending the verification code.
+TKT-000135,CUS-0075,2025-10-11,Billing,9,False,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000136,CUS-0076,2026-01-06,Service Failure,26,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000137,CUS-0076,2026-04-03,Account Access,4,True,I have been trying to access my account for two days without success.
+TKT-000138,CUS-0077,2025-05-31,Refund Request,2,True,My overpayment from last month has not been returned to my account.
+TKT-000139,CUS-0077,2026-04-13,Account Access,5,False,My two-factor authentication is not sending the verification code.
+TKT-000140,CUS-0078,2026-05-16,Product Query,64,False,Can you explain the early repayment charge on my loan?
+TKT-000141,CUS-0078,2025-10-01,Fraud Query,26,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000142,CUS-0079,2025-08-14,Billing,23,False,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000143,CUS-0079,2025-08-25,Fraud Query,24,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000144,CUS-0080,2025-07-26,Fraud Query,14,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000145,CUS-0080,2025-07-01,Complaint,3,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000146,CUS-0080,2025-10-02,Product Query,28,True,I would like to know the terms for switching my mortgage.
+TKT-000147,CUS-0080,2025-06-16,Product Query,2,True,I would like to know the terms for switching my mortgage.
+TKT-000148,CUS-0081,2025-10-22,Billing,22,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000149,CUS-0081,2025-10-05,Billing,2,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000150,CUS-0081,2026-01-14,Complaint,8,True,I want to make a formal complaint about how my case has been handled.
+TKT-000151,CUS-0082,2025-05-26,Billing,28,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000152,CUS-0083,2025-06-26,Fraud Query,2,True,I received an email claiming to be from you asking for my password.
+TKT-000153,CUS-0084,2025-05-26,Account Access,14,False,My account has been locked and I need it unlocked as soon as possible.
+TKT-000154,CUS-0084,2025-06-18,Product Query,27,True,I need to know what the excess is on my home insurance policy.
+TKT-000155,CUS-0085,2026-05-01,Account Access,19,True,My two-factor authentication is not sending the verification code.
+TKT-000156,CUS-0085,2026-01-27,Fraud Query,11,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000157,CUS-0085,2026-02-13,Complaint,19,False,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000158,CUS-0086,2026-05-22,Billing,1,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000159,CUS-0086,2025-11-16,Complaint,16,True,I have raised this issue three times and nothing has been done. This is unacceptable. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000160,CUS-0087,2025-09-04,Complaint,16,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000161,CUS-0087,2026-05-14,Product Query,30,False,I would like to know the terms for switching my mortgage.
+TKT-000162,CUS-0087,2026-05-03,Product Query,30,True,I want to understand what interest rate applies to my savings account.
+TKT-000163,CUS-0088,2026-01-03,Complaint,20,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000164,CUS-0089,2025-08-01,Complaint,13,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000165,CUS-0090,2025-05-29,Account Access,1,True,I cannot log into my online account and the reset link is not working.
+TKT-000166,CUS-0091,2025-10-31,Account Access,11,False,I cannot log into my online account and the reset link is not working.
+TKT-000167,CUS-0092,2025-09-10,Fraud Query,12,True,There are multiple small transactions I did not authorise on my account. I am absolutely furious about how this has been handled.
+TKT-000168,CUS-0092,2026-05-25,Product Query,52,True,Can you explain the early repayment charge on my loan?
+TKT-000169,CUS-0093,2025-07-27,Billing,4,True,There is an unexplained charge of £45 on my account from last Tuesday. This is disgusting. I have never experienced such poor service.
+TKT-000170,CUS-0094,2025-10-10,Account Access,34,True,The app keeps crashing every time I try to check my balance.
+TKT-000171,CUS-0095,2025-11-02,Fraud Query,32,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000172,CUS-0095,2025-11-27,Complaint,20,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000173,CUS-0096,2026-02-16,Product Query,42,True,What is the process for increasing my credit limit?
+TKT-000174,CUS-0096,2025-05-31,Product Query,44,True,I want to understand what interest rate applies to my savings account.
+TKT-000175,CUS-0097,2025-08-02,Product Query,10,False,Can you explain the early repayment charge on my loan?
+TKT-000176,CUS-0097,2026-04-14,Service Failure,22,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000177,CUS-0098,2025-11-10,Billing,6,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000178,CUS-0098,2025-09-08,Account Access,4,True,The app keeps crashing every time I try to check my balance.
+TKT-000179,CUS-0099,2026-01-18,Service Failure,4,True,I was on hold for 45 minutes and then the call was disconnected. This has caused me significant financial distress and I expect immediate action.
+TKT-000180,CUS-0099,2025-10-26,Account Access,25,True,I have been trying to access my account for two days without success.
+TKT-000181,CUS-0100,2026-02-25,Service Failure,10,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000182,CUS-0100,2025-10-15,Complaint,18,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000183,CUS-0100,2025-07-11,Fraud Query,73,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000184,CUS-0101,2026-05-20,Billing,22,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000185,CUS-0101,2025-08-02,Fraud Query,43,True,My card details have been used without my permission at an online retailer.
+TKT-000186,CUS-0102,2025-12-19,Account Access,8,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000187,CUS-0102,2025-11-19,Product Query,4,True,I would like to know the terms for switching my mortgage.
+TKT-000188,CUS-0103,2025-11-14,Account Access,19,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000189,CUS-0103,2025-10-16,Product Query,1,True,I want to understand what interest rate applies to my savings account.
+TKT-000190,CUS-0103,2025-05-27,Account Access,30,True,My two-factor authentication is not sending the verification code.
+TKT-000191,CUS-0104,2025-11-25,Account Access,13,False,I cannot log into my online account and the reset link is not working.
+TKT-000192,CUS-0104,2026-02-04,Complaint,32,True,This is the worst experience I have ever had with a financial company.
+TKT-000193,CUS-0105,2025-11-06,Account Access,6,True,The app keeps crashing every time I try to check my balance.
+TKT-000194,CUS-0105,2025-07-27,Complaint,65,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000195,CUS-0106,2025-06-28,Billing,14,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000196,CUS-0107,2025-09-26,Billing,22,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000197,CUS-0107,2025-06-16,Refund Request,27,True,My overpayment from last month has not been returned to my account.
+TKT-000198,CUS-0107,2025-12-13,Billing,78,False,I have been waiting three weeks for a billing dispute to be resolved. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000199,CUS-0108,2025-05-28,Complaint,7,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000200,CUS-0108,2025-10-03,Refund Request,8,True,I need a refund for a duplicate payment made during the system outage.
+TKT-000201,CUS-0108,2026-02-11,Fraud Query,2,True,There are multiple small transactions I did not authorise on my account.
+TKT-000202,CUS-0109,2025-07-31,Product Query,26,False,I need to know what the excess is on my home insurance policy. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000203,CUS-0109,2026-04-02,Service Failure,1,True,My card was declined at the supermarket even though my account is in credit. I am absolutely furious about how this has been handled.
+TKT-000204,CUS-0110,2025-12-27,Product Query,6,True,I want to understand what interest rate applies to my savings account.
+TKT-000205,CUS-0111,2026-04-14,Billing,49,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000206,CUS-0112,2026-04-05,Service Failure,4,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000207,CUS-0113,2026-01-30,Complaint,9,True,This is the worst experience I have ever had with a financial company.
+TKT-000208,CUS-0113,2026-03-29,Fraud Query,7,False,There are multiple small transactions I did not authorise on my account.
+TKT-000209,CUS-0114,2025-07-12,Complaint,27,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000210,CUS-0115,2025-11-05,Refund Request,2,True,I cancelled my policy within the cooling off period and am still waiting for a refund.
+TKT-000211,CUS-0115,2026-02-12,Product Query,7,True,I want to understand what interest rate applies to my savings account.
+TKT-000212,CUS-0116,2026-04-07,Product Query,14,False,Can you explain the early repayment charge on my loan?
+TKT-000213,CUS-0116,2026-01-21,Account Access,11,True,I have been trying to access my account for two days without success.
+TKT-000214,CUS-0117,2025-08-09,Product Query,17,True,I want to understand what interest rate applies to my savings account.
+TKT-000215,CUS-0117,2025-07-13,Account Access,52,True,I cannot log into my online account and the reset link is not working.
+TKT-000216,CUS-0117,2025-10-17,Complaint,2,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000217,CUS-0117,2025-12-08,Complaint,21,True,This is the worst experience I have ever had with a financial company.
+TKT-000218,CUS-0118,2026-03-03,Account Access,207,False,My account has been locked and I need it unlocked as soon as possible.
+TKT-000219,CUS-0119,2026-03-16,Fraud Query,1,True,There are multiple small transactions I did not authorise on my account.
+TKT-000220,CUS-0120,2026-03-24,Billing,7,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000221,CUS-0120,2025-07-09,Product Query,41,True,I would like to know the terms for switching my mortgage.
+TKT-000222,CUS-0121,2025-08-03,Complaint,2,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000223,CUS-0121,2025-06-25,Refund Request,1,True,My overpayment from last month has not been returned to my account.
+TKT-000224,CUS-0122,2025-08-07,Fraud Query,2,True,I received an email claiming to be from you asking for my password.
+TKT-000225,CUS-0122,2025-06-09,Billing,31,False,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000226,CUS-0123,2026-05-25,Fraud Query,11,False,I received an email claiming to be from you asking for my password.
+TKT-000227,CUS-0124,2026-04-03,Complaint,8,False,I want to make a formal complaint about how my case has been handled.
+TKT-000228,CUS-0124,2025-12-26,Service Failure,1,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000229,CUS-0124,2025-10-02,Billing,9,False,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000230,CUS-0125,2025-08-03,Refund Request,2,True,The product was misrepresented and I would like a full refund.
+TKT-000231,CUS-0126,2026-05-22,Complaint,1,True,This is the worst experience I have ever had with a financial company.
+TKT-000232,CUS-0127,2026-03-16,Fraud Query,16,False,I do not recognise a transaction on my account for £230 from last night.
+TKT-000233,CUS-0127,2025-06-19,Refund Request,1,True,The product was misrepresented and I would like a full refund.
+TKT-000234,CUS-0128,2025-11-02,Product Query,38,True,What is the process for increasing my credit limit?
+TKT-000235,CUS-0128,2025-06-08,Complaint,45,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000236,CUS-0129,2025-12-23,Product Query,9,True,I would like to know the terms for switching my mortgage. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000237,CUS-0129,2025-06-13,Complaint,1,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000238,CUS-0129,2025-07-03,Fraud Query,3,True,My card details have been used without my permission at an online retailer.
+TKT-000239,CUS-0130,2026-03-13,Service Failure,7,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000240,CUS-0131,2026-03-19,Service Failure,27,False,The service has been unreliable for weeks and is affecting my business.
+TKT-000241,CUS-0132,2025-07-12,Fraud Query,5,True,My card details have been used without my permission at an online retailer.
+TKT-000242,CUS-0132,2025-09-18,Product Query,18,True,What is the process for increasing my credit limit?
+TKT-000243,CUS-0132,2026-05-11,Billing,28,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000244,CUS-0132,2025-11-12,Service Failure,13,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000245,CUS-0133,2026-02-11,Fraud Query,38,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000246,CUS-0133,2025-11-08,Billing,19,False,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000247,CUS-0134,2026-03-16,Product Query,22,True,What is the process for increasing my credit limit? I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000248,CUS-0134,2026-05-25,Complaint,1,False,I was told my issue would be resolved in 48 hours. It has now been two weeks. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000249,CUS-0135,2026-01-22,Billing,11,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000250,CUS-0135,2026-04-07,Billing,4,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000251,CUS-0136,2025-09-28,Account Access,6,True,I have been trying to access my account for two days without success.
+TKT-000252,CUS-0137,2025-07-02,Account Access,5,True,My two-factor authentication is not sending the verification code.
+TKT-000253,CUS-0138,2025-10-01,Complaint,1,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000254,CUS-0139,2025-09-25,Account Access,5,True,The app keeps crashing every time I try to check my balance.
+TKT-000255,CUS-0140,2025-10-05,Account Access,1,True,The app keeps crashing every time I try to check my balance.
+TKT-000256,CUS-0141,2025-08-21,Billing,2,True,I have been waiting three weeks for a billing dispute to be resolved. This is disgusting. I have never experienced such poor service.
+TKT-000257,CUS-0142,2026-04-16,Billing,10,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000258,CUS-0143,2025-07-07,Product Query,32,True,What is the process for increasing my credit limit?
+TKT-000259,CUS-0144,2025-06-11,Product Query,8,False,I need to know what the excess is on my home insurance policy.
+TKT-000260,CUS-0144,2026-05-05,Product Query,22,False,What is the process for increasing my credit limit? Your team is completely unhelpful and I am done waiting.
+TKT-000261,CUS-0145,2026-01-24,Complaint,4,True,I want to make a formal complaint about how my case has been handled. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000262,CUS-0145,2025-05-31,Account Access,31,True,I have been trying to access my account for two days without success. This is disgusting. I have never experienced such poor service.
+TKT-000263,CUS-0145,2025-10-02,Account Access,1,True,I cannot log into my online account and the reset link is not working. I am absolutely furious about how this has been handled.
+TKT-000264,CUS-0146,2025-07-22,Service Failure,2,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000265,CUS-0146,2026-03-01,Billing,24,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000266,CUS-0146,2025-05-27,Service Failure,12,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000267,CUS-0147,2026-02-28,Billing,14,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000268,CUS-0148,2026-02-19,Complaint,3,False,I want to make a formal complaint about how my case has been handled.
+TKT-000269,CUS-0148,2026-03-31,Account Access,4,False,The app keeps crashing every time I try to check my balance.
+TKT-000270,CUS-0149,2025-06-11,Refund Request,17,True,I cancelled my policy within the cooling off period and am still waiting for a refund.
+TKT-000271,CUS-0150,2026-02-21,Billing,31,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000272,CUS-0150,2025-06-12,Fraud Query,5,True,There are multiple small transactions I did not authorise on my account. Your team is completely unhelpful and I am done waiting.
+TKT-000273,CUS-0151,2025-07-01,Billing,4,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000274,CUS-0151,2025-09-18,Product Query,15,True,I need to know what the excess is on my home insurance policy.
+TKT-000275,CUS-0151,2025-11-10,Product Query,7,True,What is the process for increasing my credit limit?
+TKT-000276,CUS-0152,2025-10-24,Product Query,10,True,Can you explain the early repayment charge on my loan? This is disgusting. I have never experienced such poor service.
+TKT-000277,CUS-0153,2026-03-10,Service Failure,1,False,My card was declined at the supermarket even though my account is in credit. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000278,CUS-0153,2025-08-10,Billing,46,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000279,CUS-0154,2025-06-05,Billing,23,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000280,CUS-0155,2025-09-14,Billing,5,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000281,CUS-0155,2025-08-16,Fraud Query,6,False,There are multiple small transactions I did not authorise on my account.
+TKT-000282,CUS-0155,2026-01-02,Complaint,12,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000283,CUS-0156,2025-11-01,Billing,19,True,The direct debit was taken on the wrong date causing me to go overdrawn. Your team is completely unhelpful and I am done waiting.
+TKT-000284,CUS-0157,2026-02-11,Account Access,3,True,I have been trying to access my account for two days without success.
+TKT-000285,CUS-0157,2025-12-01,Service Failure,1,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000286,CUS-0158,2025-10-25,Complaint,17,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000287,CUS-0158,2025-11-04,Complaint,11,False,This is the worst experience I have ever had with a financial company.
+TKT-000288,CUS-0158,2025-08-05,Fraud Query,16,True,My card details have been used without my permission at an online retailer. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000289,CUS-0158,2026-05-13,Account Access,10,True,The app keeps crashing every time I try to check my balance.
+TKT-000290,CUS-0159,2026-01-10,Product Query,4,False,Can you explain the early repayment charge on my loan? This has caused me significant financial distress and I expect immediate action.
+TKT-000291,CUS-0159,2026-02-15,Billing,59,True,I was charged twice for the same transaction and need this refunded immediately. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000292,CUS-0160,2025-10-20,Service Failure,46,False,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000293,CUS-0161,2025-12-07,Product Query,39,True,I need to know what the excess is on my home insurance policy.
+TKT-000294,CUS-0162,2025-06-26,Service Failure,43,True,The service has been unreliable for weeks and is affecting my business. I am absolutely furious about how this has been handled.
+TKT-000295,CUS-0162,2026-01-14,Fraud Query,15,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000296,CUS-0162,2026-01-05,Service Failure,17,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000297,CUS-0163,2025-10-23,Account Access,93,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000298,CUS-0164,2025-07-03,Service Failure,2,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000299,CUS-0164,2025-09-07,Service Failure,8,False,My card was declined at the supermarket even though my account is in credit.
+TKT-000300,CUS-0164,2026-02-10,Fraud Query,6,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000301,CUS-0165,2025-12-31,Product Query,17,True,I need to know what the excess is on my home insurance policy. This has caused me significant financial distress and I expect immediate action.
+TKT-000302,CUS-0165,2025-11-24,Account Access,1,True,My two-factor authentication is not sending the verification code.
+TKT-000303,CUS-0166,2026-01-07,Billing,12,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000304,CUS-0166,2025-12-26,Account Access,1,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000305,CUS-0166,2025-11-23,Product Query,9,False,I need to know what the excess is on my home insurance policy. This has caused me significant financial distress and I expect immediate action.
+TKT-000306,CUS-0167,2025-10-12,Account Access,6,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000307,CUS-0167,2026-03-30,Account Access,3,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000308,CUS-0167,2025-09-27,Billing,34,True,I have been waiting three weeks for a billing dispute to be resolved. This has caused me significant financial distress and I expect immediate action.
+TKT-000309,CUS-0168,2026-05-13,Account Access,2,True,I have been trying to access my account for two days without success. This has caused me significant financial distress and I expect immediate action.
+TKT-000310,CUS-0168,2026-02-04,Billing,8,True,My monthly fee has increased without any notification. I am not happy about this. Your team is completely unhelpful and I am done waiting.
+TKT-000311,CUS-0169,2026-05-10,Account Access,8,False,My two-factor authentication is not sending the verification code.
+TKT-000312,CUS-0169,2025-09-01,Billing,6,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000313,CUS-0169,2026-04-28,Product Query,2,True,What is the process for increasing my credit limit?
+TKT-000314,CUS-0169,2025-07-31,Complaint,11,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000315,CUS-0170,2025-11-27,Billing,36,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000316,CUS-0170,2025-08-23,Account Access,14,True,I cannot log into my online account and the reset link is not working.
+TKT-000317,CUS-0171,2025-12-26,Product Query,85,True,What is the process for increasing my credit limit?
+TKT-000318,CUS-0171,2025-12-03,Account Access,11,True,The app keeps crashing every time I try to check my balance.
+TKT-000319,CUS-0172,2026-01-02,Billing,13,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000320,CUS-0173,2025-08-09,Product Query,1,True,I would like to know the terms for switching my mortgage.
+TKT-000321,CUS-0173,2026-01-24,Product Query,20,True,Can you explain the early repayment charge on my loan?
+TKT-000322,CUS-0173,2025-10-22,Refund Request,12,True,I need a refund for a duplicate payment made during the system outage.
+TKT-000323,CUS-0173,2025-11-28,Account Access,2,True,I have been trying to access my account for two days without success.
+TKT-000324,CUS-0174,2025-09-06,Billing,3,True,My monthly fee has increased without any notification. I am not happy about this. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000325,CUS-0175,2026-01-13,Billing,8,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000326,CUS-0176,2026-03-18,Account Access,2,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000327,CUS-0176,2025-11-15,Product Query,3,True,What is the process for increasing my credit limit?
+TKT-000328,CUS-0176,2026-03-16,Service Failure,16,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000329,CUS-0177,2025-06-11,Complaint,7,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000330,CUS-0178,2026-04-23,Complaint,7,True,I want to make a formal complaint about how my case has been handled.
+TKT-000331,CUS-0178,2026-04-24,Billing,10,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000332,CUS-0178,2026-04-01,Account Access,44,False,I cannot log into my online account and the reset link is not working.
+TKT-000333,CUS-0179,2025-05-28,Complaint,6,True,I was told my issue would be resolved in 48 hours. It has now been two weeks. Your team is completely unhelpful and I am done waiting.
+TKT-000334,CUS-0179,2025-07-12,Product Query,8,False,I would like to know the terms for switching my mortgage. Your team is completely unhelpful and I am done waiting.
+TKT-000335,CUS-0180,2025-06-16,Billing,13,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000336,CUS-0180,2026-02-25,Account Access,6,True,My two-factor authentication is not sending the verification code.
+TKT-000337,CUS-0180,2025-06-10,Account Access,47,True,I cannot log into my online account and the reset link is not working.
+TKT-000338,CUS-0180,2025-09-02,Account Access,6,True,My two-factor authentication is not sending the verification code.
+TKT-000339,CUS-0181,2025-09-12,Account Access,1,True,I cannot log into my online account and the reset link is not working.
+TKT-000340,CUS-0181,2025-11-20,Product Query,17,True,I need to know what the excess is on my home insurance policy.
+TKT-000341,CUS-0182,2025-06-17,Fraud Query,5,True,There are multiple small transactions I did not authorise on my account.
+TKT-000342,CUS-0183,2026-02-26,Fraud Query,1,True,There are multiple small transactions I did not authorise on my account.
+TKT-000343,CUS-0184,2025-06-18,Billing,13,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000344,CUS-0184,2025-07-07,Account Access,38,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000345,CUS-0185,2025-08-21,Billing,19,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000346,CUS-0186,2025-11-27,Account Access,11,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000347,CUS-0187,2025-07-01,Refund Request,14,True,The product was misrepresented and I would like a full refund.
+TKT-000348,CUS-0187,2025-06-01,Account Access,21,True,My two-factor authentication is not sending the verification code.
+TKT-000349,CUS-0188,2025-09-29,Account Access,1,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000350,CUS-0189,2025-08-24,Billing,41,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000351,CUS-0190,2025-09-09,Billing,21,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000352,CUS-0190,2026-03-27,Fraud Query,1,True,I received an email claiming to be from you asking for my password.
+TKT-000353,CUS-0191,2025-06-12,Product Query,68,True,I want to understand what interest rate applies to my savings account.
+TKT-000354,CUS-0191,2025-09-07,Account Access,10,True,I have been trying to access my account for two days without success.
+TKT-000355,CUS-0192,2026-01-10,Service Failure,25,True,My payment did not go through despite sufficient funds in my account.
+TKT-000356,CUS-0193,2025-11-23,Account Access,39,True,I have been trying to access my account for two days without success.
+TKT-000357,CUS-0193,2025-10-13,Service Failure,19,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000358,CUS-0193,2025-12-21,Fraud Query,5,False,I do not recognise a transaction on my account for £230 from last night.
+TKT-000359,CUS-0194,2025-10-08,Product Query,19,False,I need to know what the excess is on my home insurance policy. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000360,CUS-0194,2025-09-20,Billing,3,True,There is an unexplained charge of £45 on my account from last Tuesday. This is disgusting. I have never experienced such poor service.
+TKT-000361,CUS-0195,2025-10-21,Complaint,3,True,This is the worst experience I have ever had with a financial company.
+TKT-000362,CUS-0196,2025-12-11,Fraud Query,31,False,I received an email claiming to be from you asking for my password.
+TKT-000363,CUS-0196,2025-08-22,Billing,19,False,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000364,CUS-0197,2025-07-13,Billing,5,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000365,CUS-0197,2025-12-25,Billing,19,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000366,CUS-0198,2026-04-14,Account Access,6,True,I cannot log into my online account and the reset link is not working.
+TKT-000367,CUS-0198,2026-04-22,Fraud Query,8,False,My card details have been used without my permission at an online retailer.
+TKT-000368,CUS-0199,2025-06-11,Fraud Query,30,False,I do not recognise a transaction on my account for £230 from last night.
+TKT-000369,CUS-0200,2026-01-15,Service Failure,1,True,My payment did not go through despite sufficient funds in my account.
+TKT-000370,CUS-0200,2026-02-02,Fraud Query,1,False,There are multiple small transactions I did not authorise on my account.
+TKT-000371,CUS-0200,2025-10-25,Account Access,16,True,The app keeps crashing every time I try to check my balance.
+TKT-000372,CUS-0200,2025-06-19,Product Query,19,True,I need to know what the excess is on my home insurance policy.
+TKT-000373,CUS-0201,2026-01-14,Service Failure,1,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000374,CUS-0201,2025-07-24,Account Access,5,True,My two-factor authentication is not sending the verification code.
+TKT-000375,CUS-0202,2026-02-04,Product Query,16,True,What is the process for increasing my credit limit?
+TKT-000376,CUS-0203,2026-03-19,Service Failure,18,False,My card was declined at the supermarket even though my account is in credit. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000377,CUS-0203,2026-01-16,Account Access,5,True,My two-factor authentication is not sending the verification code. This has caused me significant financial distress and I expect immediate action.
+TKT-000378,CUS-0203,2025-08-10,Refund Request,53,True,I cancelled my policy within the cooling off period and am still waiting for a refund. I am deeply disappointed and will be switching to a competitor.
+TKT-000379,CUS-0204,2025-10-10,Billing,12,False,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000380,CUS-0204,2025-10-04,Refund Request,2,True,I was charged a fee that was waived verbally by your agent but not applied.
+TKT-000381,CUS-0204,2026-04-06,Billing,14,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000382,CUS-0205,2025-11-20,Account Access,24,False,My two-factor authentication is not sending the verification code.
+TKT-000383,CUS-0206,2025-08-07,Product Query,12,True,What is the process for increasing my credit limit?
+TKT-000384,CUS-0207,2026-05-20,Complaint,13,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000385,CUS-0208,2026-01-13,Account Access,26,True,My two-factor authentication is not sending the verification code. I am deeply disappointed and will be switching to a competitor.
+TKT-000386,CUS-0208,2025-09-14,Fraud Query,36,False,Someone has made three purchases in Germany but I am in the UK. This has caused me significant financial distress and I expect immediate action.
+TKT-000387,CUS-0209,2025-09-23,Product Query,27,True,I would like to know the terms for switching my mortgage.
+TKT-000388,CUS-0209,2026-02-21,Account Access,9,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000389,CUS-0210,2026-05-20,Account Access,7,True,I have been trying to access my account for two days without success.
+TKT-000390,CUS-0211,2025-06-03,Product Query,9,True,What is the process for increasing my credit limit?
+TKT-000391,CUS-0212,2025-07-11,Account Access,55,True,I cannot log into my online account and the reset link is not working.
+TKT-000392,CUS-0212,2026-02-04,Service Failure,31,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000393,CUS-0213,2025-08-04,Billing,6,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000394,CUS-0214,2026-04-25,Service Failure,22,False,I was on hold for 45 minutes and then the call was disconnected. This has caused me significant financial distress and I expect immediate action.
+TKT-000395,CUS-0214,2025-10-15,Account Access,30,True,My account has been locked and I need it unlocked as soon as possible. This is disgusting. I have never experienced such poor service.
+TKT-000396,CUS-0215,2025-06-08,Product Query,22,True,I would like to know the terms for switching my mortgage.
+TKT-000397,CUS-0215,2026-04-01,Billing,9,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000398,CUS-0215,2025-10-10,Product Query,29,True,Can you explain the early repayment charge on my loan?
+TKT-000399,CUS-0215,2025-06-07,Service Failure,6,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000400,CUS-0216,2026-04-15,Fraud Query,4,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000401,CUS-0217,2026-03-04,Product Query,54,False,I want to understand what interest rate applies to my savings account. Your team is completely unhelpful and I am done waiting.
+TKT-000402,CUS-0217,2025-07-14,Fraud Query,20,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000403,CUS-0217,2026-01-10,Fraud Query,7,False,There are multiple small transactions I did not authorise on my account. This is disgusting. I have never experienced such poor service.
+TKT-000404,CUS-0217,2025-12-19,Complaint,12,True,I have raised this issue three times and nothing has been done. This is unacceptable. I am absolutely furious about how this has been handled.
+TKT-000405,CUS-0218,2025-06-06,Account Access,24,True,My two-factor authentication is not sending the verification code.
+TKT-000406,CUS-0219,2025-10-07,Service Failure,6,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000407,CUS-0219,2026-01-03,Fraud Query,1,True,There are multiple small transactions I did not authorise on my account.
+TKT-000408,CUS-0219,2025-10-14,Product Query,14,True,Can you explain the early repayment charge on my loan?
+TKT-000409,CUS-0220,2025-09-29,Account Access,35,False,I cannot log into my online account and the reset link is not working.
+TKT-000410,CUS-0220,2026-01-11,Billing,2,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000411,CUS-0220,2026-04-29,Complaint,12,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000412,CUS-0221,2026-05-20,Product Query,3,True,I would like to know the terms for switching my mortgage.
+TKT-000413,CUS-0222,2026-02-10,Product Query,5,False,I want to understand what interest rate applies to my savings account.
+TKT-000414,CUS-0223,2026-01-31,Product Query,1,False,I need to know what the excess is on my home insurance policy.
+TKT-000415,CUS-0224,2025-11-17,Billing,9,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000416,CUS-0225,2026-01-16,Complaint,4,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000417,CUS-0226,2025-08-19,Product Query,16,True,Can you explain the early repayment charge on my loan?
+TKT-000418,CUS-0226,2025-05-30,Refund Request,9,False,I was charged a fee that was waived verbally by your agent but not applied.
+TKT-000419,CUS-0226,2025-07-06,Complaint,13,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000420,CUS-0227,2025-11-01,Service Failure,11,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000421,CUS-0228,2026-01-25,Account Access,9,False,My two-factor authentication is not sending the verification code. This is disgusting. I have never experienced such poor service.
+TKT-000422,CUS-0228,2025-07-31,Product Query,69,True,I want to understand what interest rate applies to my savings account. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000423,CUS-0228,2026-02-10,Account Access,13,True,The app keeps crashing every time I try to check my balance. I am deeply disappointed and will be switching to a competitor.
+TKT-000424,CUS-0229,2025-10-25,Fraud Query,3,True,There are multiple small transactions I did not authorise on my account. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000425,CUS-0229,2025-08-01,Fraud Query,34,True,There are multiple small transactions I did not authorise on my account. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000426,CUS-0230,2025-11-17,Complaint,12,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000427,CUS-0231,2026-01-05,Account Access,6,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000428,CUS-0231,2025-09-24,Service Failure,23,False,My payment did not go through despite sufficient funds in my account.
+TKT-000429,CUS-0232,2026-02-04,Service Failure,6,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000430,CUS-0232,2025-10-22,Service Failure,28,False,The service has been unreliable for weeks and is affecting my business.
+TKT-000431,CUS-0232,2025-10-30,Service Failure,23,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000432,CUS-0233,2026-03-11,Service Failure,9,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000433,CUS-0233,2025-08-19,Billing,1,True,There is an unexplained charge of £45 on my account from last Tuesday. This is disgusting. I have never experienced such poor service.
+TKT-000434,CUS-0233,2025-10-17,Complaint,1,True,I was told my issue would be resolved in 48 hours. It has now been two weeks. This is disgusting. I have never experienced such poor service.
+TKT-000435,CUS-0234,2026-05-19,Service Failure,75,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000436,CUS-0235,2026-03-28,Product Query,20,True,I want to understand what interest rate applies to my savings account.
+TKT-000437,CUS-0236,2026-04-12,Service Failure,23,False,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000438,CUS-0236,2026-03-11,Product Query,20,True,I would like to know the terms for switching my mortgage.
+TKT-000439,CUS-0236,2025-10-06,Billing,2,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000440,CUS-0236,2025-09-06,Product Query,24,True,I need to know what the excess is on my home insurance policy.
+TKT-000441,CUS-0237,2026-03-16,Complaint,44,True,This is the worst experience I have ever had with a financial company.
+TKT-000442,CUS-0237,2025-11-28,Complaint,19,False,I want to make a formal complaint about how my case has been handled.
+TKT-000443,CUS-0238,2025-09-04,Billing,14,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000444,CUS-0238,2025-07-23,Product Query,54,True,Can you explain the early repayment charge on my loan?
+TKT-000445,CUS-0239,2026-04-25,Billing,32,False,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000446,CUS-0240,2025-08-12,Complaint,5,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000447,CUS-0241,2026-05-02,Fraud Query,27,False,Someone has made three purchases in Germany but I am in the UK.
+TKT-000448,CUS-0242,2025-07-20,Product Query,3,True,I would like to know the terms for switching my mortgage. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000449,CUS-0242,2026-03-03,Account Access,1,True,The app keeps crashing every time I try to check my balance. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000450,CUS-0243,2026-02-11,Billing,19,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000451,CUS-0244,2025-05-27,Billing,1,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000452,CUS-0245,2026-03-05,Billing,34,False,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000453,CUS-0245,2025-09-06,Account Access,7,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000454,CUS-0245,2025-09-27,Billing,4,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000455,CUS-0246,2026-02-25,Account Access,23,False,The app keeps crashing every time I try to check my balance.
+TKT-000456,CUS-0246,2026-02-25,Billing,2,False,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000457,CUS-0247,2025-07-21,Account Access,33,True,I cannot log into my online account and the reset link is not working.
+TKT-000458,CUS-0248,2026-03-21,Product Query,32,True,I want to understand what interest rate applies to my savings account.
+TKT-000459,CUS-0248,2025-11-25,Product Query,8,True,I need to know what the excess is on my home insurance policy.
+TKT-000460,CUS-0248,2025-12-09,Complaint,10,True,I want to make a formal complaint about how my case has been handled.
+TKT-000461,CUS-0249,2025-10-13,Product Query,1,True,I would like to know the terms for switching my mortgage.
+TKT-000462,CUS-0249,2025-12-26,Account Access,9,True,I cannot log into my online account and the reset link is not working.
+TKT-000463,CUS-0249,2025-06-07,Account Access,9,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000464,CUS-0250,2025-07-07,Billing,1,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000465,CUS-0251,2025-08-09,Refund Request,1,True,I need a refund for a duplicate payment made during the system outage.
+TKT-000466,CUS-0251,2025-10-07,Product Query,4,True,I would like to know the terms for switching my mortgage.
+TKT-000467,CUS-0252,2025-10-23,Service Failure,4,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000468,CUS-0252,2025-09-01,Complaint,2,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000469,CUS-0253,2026-05-13,Account Access,43,True,I cannot log into my online account and the reset link is not working.
+TKT-000470,CUS-0253,2025-09-08,Product Query,8,True,What is the process for increasing my credit limit?
+TKT-000471,CUS-0254,2025-06-13,Product Query,1,True,I need to know what the excess is on my home insurance policy. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000472,CUS-0255,2025-10-11,Product Query,4,True,What is the process for increasing my credit limit?
+TKT-000473,CUS-0255,2025-09-04,Account Access,33,True,I have been trying to access my account for two days without success.
+TKT-000474,CUS-0255,2025-11-22,Refund Request,2,True,I need a refund for a duplicate payment made during the system outage.
+TKT-000475,CUS-0256,2026-05-19,Billing,37,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000476,CUS-0257,2025-08-17,Complaint,14,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000477,CUS-0258,2026-04-22,Complaint,24,False,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000478,CUS-0258,2025-06-10,Account Access,39,True,I have been trying to access my account for two days without success.
+TKT-000479,CUS-0258,2026-02-02,Product Query,3,True,What is the process for increasing my credit limit? This has caused me significant financial distress and I expect immediate action.
+TKT-000480,CUS-0259,2025-12-20,Complaint,11,True,I was told my issue would be resolved in 48 hours. It has now been two weeks. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000481,CUS-0259,2025-10-07,Billing,9,True,My monthly fee has increased without any notification. I am not happy about this. This has caused me significant financial distress and I expect immediate action.
+TKT-000482,CUS-0260,2026-02-15,Billing,44,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000483,CUS-0260,2026-04-13,Billing,31,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000484,CUS-0261,2025-08-22,Billing,66,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000485,CUS-0261,2025-12-04,Fraud Query,14,False,I received an email claiming to be from you asking for my password.
+TKT-000486,CUS-0261,2026-01-02,Account Access,4,True,I have been trying to access my account for two days without success.
+TKT-000487,CUS-0262,2025-10-30,Refund Request,1,True,The product was misrepresented and I would like a full refund.
+TKT-000488,CUS-0262,2026-04-02,Service Failure,7,False,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000489,CUS-0263,2026-03-29,Refund Request,18,False,I cancelled my policy within the cooling off period and am still waiting for a refund.
+TKT-000490,CUS-0264,2025-08-19,Complaint,1,True,I want to make a formal complaint about how my case has been handled.
+TKT-000491,CUS-0265,2026-02-26,Product Query,26,True,I would like to know the terms for switching my mortgage.
+TKT-000492,CUS-0265,2026-01-09,Product Query,11,True,I need to know what the excess is on my home insurance policy.
+TKT-000493,CUS-0265,2025-08-14,Service Failure,23,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000494,CUS-0266,2026-01-27,Account Access,25,False,My account has been locked and I need it unlocked as soon as possible. I am deeply disappointed and will be switching to a competitor.
+TKT-000495,CUS-0267,2026-01-19,Complaint,2,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000496,CUS-0268,2025-06-21,Billing,6,False,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000497,CUS-0269,2026-04-28,Product Query,9,True,What is the process for increasing my credit limit?
+TKT-000498,CUS-0270,2025-08-12,Account Access,13,True,My two-factor authentication is not sending the verification code.
+TKT-000499,CUS-0270,2025-07-28,Billing,34,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000500,CUS-0270,2025-12-06,Billing,42,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000501,CUS-0271,2025-11-10,Billing,9,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000502,CUS-0271,2026-04-22,Product Query,15,True,What is the process for increasing my credit limit? This is disgusting. I have never experienced such poor service.
+TKT-000503,CUS-0272,2025-06-10,Service Failure,7,True,My payment did not go through despite sufficient funds in my account.
+TKT-000504,CUS-0273,2025-11-28,Billing,65,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000505,CUS-0274,2025-11-22,Complaint,21,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000506,CUS-0274,2025-06-10,Refund Request,108,True,I was charged a fee that was waived verbally by your agent but not applied.
+TKT-000507,CUS-0274,2025-09-18,Account Access,30,True,I have been trying to access my account for two days without success.
+TKT-000508,CUS-0275,2026-02-04,Product Query,1,False,I need to know what the excess is on my home insurance policy.
+TKT-000509,CUS-0276,2025-07-15,Billing,21,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000510,CUS-0276,2025-07-06,Account Access,14,False,I cannot log into my online account and the reset link is not working.
+TKT-000511,CUS-0276,2026-05-02,Complaint,31,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000512,CUS-0276,2026-01-22,Billing,4,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000513,CUS-0277,2026-02-23,Service Failure,6,True,My payment did not go through despite sufficient funds in my account.
+TKT-000514,CUS-0278,2026-05-15,Fraud Query,15,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000515,CUS-0278,2025-10-13,Account Access,27,True,I have been trying to access my account for two days without success.
+TKT-000516,CUS-0279,2026-05-05,Billing,13,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000517,CUS-0280,2026-03-19,Billing,23,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000518,CUS-0281,2026-05-08,Billing,24,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000519,CUS-0282,2025-09-20,Account Access,59,False,The app keeps crashing every time I try to check my balance.
+TKT-000520,CUS-0283,2025-08-25,Product Query,3,True,I need to know what the excess is on my home insurance policy.
+TKT-000521,CUS-0283,2026-02-25,Refund Request,35,True,My overpayment from last month has not been returned to my account.
+TKT-000522,CUS-0283,2025-06-16,Complaint,14,False,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000523,CUS-0283,2026-01-21,Service Failure,2,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000524,CUS-0284,2025-06-11,Complaint,11,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000525,CUS-0285,2026-04-23,Product Query,45,True,I want to understand what interest rate applies to my savings account.
+TKT-000526,CUS-0285,2025-07-30,Service Failure,8,False,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000527,CUS-0285,2025-12-26,Complaint,59,False,I want to make a formal complaint about how my case has been handled.
+TKT-000528,CUS-0286,2025-09-11,Complaint,6,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000529,CUS-0286,2025-08-17,Complaint,8,True,This is the worst experience I have ever had with a financial company.
+TKT-000530,CUS-0287,2025-08-31,Complaint,9,True,This is the worst experience I have ever had with a financial company.
+TKT-000531,CUS-0287,2025-07-14,Billing,9,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000532,CUS-0288,2025-05-31,Billing,11,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000533,CUS-0289,2025-07-31,Fraud Query,35,False,There are multiple small transactions I did not authorise on my account.
+TKT-000534,CUS-0290,2025-08-03,Billing,8,False,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000535,CUS-0290,2025-06-26,Refund Request,9,True,I need a refund for a duplicate payment made during the system outage.
+TKT-000536,CUS-0290,2025-07-14,Account Access,52,True,I have been trying to access my account for two days without success.
+TKT-000537,CUS-0291,2026-03-26,Fraud Query,9,True,My card details have been used without my permission at an online retailer.
+TKT-000538,CUS-0291,2026-04-11,Product Query,5,False,What is the process for increasing my credit limit?
+TKT-000539,CUS-0291,2025-12-17,Product Query,4,True,I would like to know the terms for switching my mortgage.
+TKT-000540,CUS-0291,2026-05-22,Product Query,82,True,I would like to know the terms for switching my mortgage.
+TKT-000541,CUS-0292,2026-05-23,Account Access,40,True,I cannot log into my online account and the reset link is not working.
+TKT-000542,CUS-0293,2025-12-20,Fraud Query,28,True,My card details have been used without my permission at an online retailer.
+TKT-000543,CUS-0294,2025-09-08,Service Failure,3,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000544,CUS-0295,2025-06-25,Account Access,7,True,I cannot log into my online account and the reset link is not working.
+TKT-000545,CUS-0295,2025-10-25,Product Query,37,True,I would like to know the terms for switching my mortgage.
+TKT-000546,CUS-0296,2025-09-14,Refund Request,38,True,I need a refund for a duplicate payment made during the system outage. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000547,CUS-0297,2025-06-22,Complaint,3,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000548,CUS-0298,2025-05-27,Account Access,2,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000549,CUS-0298,2025-12-01,Service Failure,52,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000550,CUS-0298,2025-10-02,Service Failure,5,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000551,CUS-0299,2026-03-28,Complaint,74,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000552,CUS-0299,2026-05-18,Billing,8,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000553,CUS-0300,2025-06-13,Product Query,36,True,I want to understand what interest rate applies to my savings account.
+TKT-000554,CUS-0301,2026-03-21,Billing,45,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000555,CUS-0302,2025-06-22,Billing,2,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000556,CUS-0303,2025-08-23,Product Query,13,True,I would like to know the terms for switching my mortgage.
+TKT-000557,CUS-0304,2026-04-11,Billing,1,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000558,CUS-0304,2025-07-20,Service Failure,6,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000559,CUS-0304,2025-06-07,Fraud Query,22,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000560,CUS-0304,2025-12-13,Billing,27,False,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000561,CUS-0305,2026-05-12,Fraud Query,6,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000562,CUS-0306,2025-08-30,Billing,13,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000563,CUS-0306,2026-03-24,Billing,16,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000564,CUS-0306,2025-09-28,Billing,1,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000565,CUS-0307,2026-02-22,Account Access,18,True,My two-factor authentication is not sending the verification code.
+TKT-000566,CUS-0308,2025-06-20,Complaint,13,True,I want to make a formal complaint about how my case has been handled.
+TKT-000567,CUS-0308,2026-01-07,Refund Request,1,True,The product was misrepresented and I would like a full refund.
+TKT-000568,CUS-0309,2026-05-01,Service Failure,1,True,My payment did not go through despite sufficient funds in my account.
+TKT-000569,CUS-0309,2025-08-19,Product Query,5,True,I want to understand what interest rate applies to my savings account.
+TKT-000570,CUS-0310,2026-04-18,Billing,3,True,I was charged twice for the same transaction and need this refunded immediately. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000571,CUS-0311,2025-11-02,Fraud Query,21,True,I received an email claiming to be from you asking for my password.
+TKT-000572,CUS-0311,2025-11-19,Fraud Query,1,True,There are multiple small transactions I did not authorise on my account.
+TKT-000573,CUS-0312,2025-11-28,Refund Request,2,False,I cancelled my policy within the cooling off period and am still waiting for a refund.
+TKT-000574,CUS-0312,2026-03-23,Complaint,5,True,I want to make a formal complaint about how my case has been handled.
+TKT-000575,CUS-0313,2026-04-08,Billing,11,False,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000576,CUS-0314,2025-10-14,Service Failure,11,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000577,CUS-0314,2025-12-10,Product Query,3,True,I would like to know the terms for switching my mortgage.
+TKT-000578,CUS-0314,2026-04-08,Fraud Query,22,False,Someone has made three purchases in Germany but I am in the UK.
+TKT-000579,CUS-0315,2025-06-27,Product Query,8,True,I would like to know the terms for switching my mortgage.
+TKT-000580,CUS-0315,2025-12-19,Service Failure,1,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000581,CUS-0315,2026-04-07,Fraud Query,2,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000582,CUS-0315,2025-10-25,Billing,6,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000583,CUS-0316,2025-09-18,Billing,60,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000584,CUS-0316,2025-05-27,Billing,81,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000585,CUS-0316,2025-10-13,Billing,1,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000586,CUS-0317,2026-03-22,Refund Request,6,True,I need a refund for a duplicate payment made during the system outage.
+TKT-000587,CUS-0318,2025-10-31,Account Access,4,False,I have been trying to access my account for two days without success.
+TKT-000588,CUS-0318,2025-05-27,Product Query,4,True,What is the process for increasing my credit limit?
+TKT-000589,CUS-0318,2025-11-18,Account Access,21,True,I cannot log into my online account and the reset link is not working.
+TKT-000590,CUS-0318,2026-02-02,Product Query,6,True,I would like to know the terms for switching my mortgage.
+TKT-000591,CUS-0319,2026-05-05,Refund Request,30,False,The product was misrepresented and I would like a full refund.
+TKT-000592,CUS-0319,2025-08-22,Billing,16,False,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000593,CUS-0320,2026-05-25,Account Access,57,True,My two-factor authentication is not sending the verification code.
+TKT-000594,CUS-0321,2026-01-07,Refund Request,6,True,I was charged a fee that was waived verbally by your agent but not applied.
+TKT-000595,CUS-0321,2025-09-17,Account Access,9,True,My two-factor authentication is not sending the verification code.
+TKT-000596,CUS-0321,2026-04-24,Fraud Query,2,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000597,CUS-0322,2026-04-08,Complaint,24,True,I have raised this issue three times and nothing has been done. This is unacceptable. I am absolutely furious about how this has been handled.
+TKT-000598,CUS-0323,2026-03-10,Account Access,8,True,I cannot log into my online account and the reset link is not working.
+TKT-000599,CUS-0323,2025-09-23,Billing,8,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000600,CUS-0324,2025-11-18,Fraud Query,8,False,There are multiple small transactions I did not authorise on my account.
+TKT-000601,CUS-0325,2026-02-07,Product Query,8,False,I want to understand what interest rate applies to my savings account.
+TKT-000602,CUS-0325,2026-02-18,Product Query,25,False,I want to understand what interest rate applies to my savings account.
+TKT-000603,CUS-0326,2026-02-14,Refund Request,19,True,The product was misrepresented and I would like a full refund.
+TKT-000604,CUS-0326,2025-10-25,Product Query,1,True,I want to understand what interest rate applies to my savings account.
+TKT-000605,CUS-0327,2025-10-17,Complaint,3,True,I was told my issue would be resolved in 48 hours. It has now been two weeks. This has caused me significant financial distress and I expect immediate action.
+TKT-000606,CUS-0328,2025-10-16,Complaint,33,True,I want to make a formal complaint about how my case has been handled.
+TKT-000607,CUS-0329,2026-04-30,Account Access,3,False,My account has been locked and I need it unlocked as soon as possible.
+TKT-000608,CUS-0330,2026-02-13,Account Access,2,True,I have been trying to access my account for two days without success.
+TKT-000609,CUS-0331,2026-04-09,Billing,8,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000610,CUS-0331,2025-07-26,Fraud Query,11,False,I received an email claiming to be from you asking for my password.
+TKT-000611,CUS-0331,2025-11-30,Product Query,38,True,What is the process for increasing my credit limit?
+TKT-000612,CUS-0331,2025-08-28,Billing,16,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000613,CUS-0332,2025-09-29,Product Query,9,True,I would like to know the terms for switching my mortgage. This is disgusting. I have never experienced such poor service.
+TKT-000614,CUS-0333,2026-05-17,Complaint,20,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000615,CUS-0333,2026-05-03,Product Query,15,False,Can you explain the early repayment charge on my loan?
+TKT-000616,CUS-0334,2025-11-24,Billing,11,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000617,CUS-0335,2026-04-09,Billing,7,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000618,CUS-0336,2025-06-14,Complaint,15,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000619,CUS-0336,2025-08-17,Fraud Query,70,False,I do not recognise a transaction on my account for £230 from last night.
+TKT-000620,CUS-0337,2026-04-27,Product Query,15,True,I want to understand what interest rate applies to my savings account.
+TKT-000621,CUS-0338,2026-02-04,Refund Request,1,True,I need a refund for a duplicate payment made during the system outage.
+TKT-000622,CUS-0338,2025-10-06,Billing,11,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000623,CUS-0338,2025-10-07,Account Access,12,False,The app keeps crashing every time I try to check my balance.
+TKT-000624,CUS-0339,2026-04-25,Fraud Query,4,True,Someone has made three purchases in Germany but I am in the UK. I am absolutely furious about how this has been handled.
+TKT-000625,CUS-0340,2025-07-21,Complaint,2,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000626,CUS-0341,2025-07-21,Product Query,10,True,I would like to know the terms for switching my mortgage. This has caused me significant financial distress and I expect immediate action.
+TKT-000627,CUS-0342,2025-10-18,Complaint,5,False,Your customer service is absolutely appalling and I am considering leaving. This has caused me significant financial distress and I expect immediate action.
+TKT-000628,CUS-0342,2026-05-15,Product Query,8,True,Can you explain the early repayment charge on my loan?
+TKT-000629,CUS-0343,2026-03-31,Billing,10,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000630,CUS-0344,2026-01-11,Account Access,1,True,I cannot log into my online account and the reset link is not working.
+TKT-000631,CUS-0344,2025-11-11,Service Failure,13,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000632,CUS-0344,2026-02-28,Account Access,26,True,The app keeps crashing every time I try to check my balance.
+TKT-000633,CUS-0344,2026-02-18,Product Query,27,True,What is the process for increasing my credit limit?
+TKT-000634,CUS-0345,2025-11-09,Complaint,19,True,I want to make a formal complaint about how my case has been handled.
+TKT-000635,CUS-0345,2025-12-29,Product Query,12,True,Can you explain the early repayment charge on my loan?
+TKT-000636,CUS-0346,2026-03-19,Account Access,11,True,I cannot log into my online account and the reset link is not working. Your team is completely unhelpful and I am done waiting.
+TKT-000637,CUS-0346,2026-01-31,Billing,1,False,I was charged twice for the same transaction and need this refunded immediately. I am deeply disappointed and will be switching to a competitor.
+TKT-000638,CUS-0347,2025-10-27,Billing,19,True,The direct debit was taken on the wrong date causing me to go overdrawn. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000639,CUS-0347,2025-12-26,Service Failure,21,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000640,CUS-0348,2025-11-08,Service Failure,49,True,My payment did not go through despite sufficient funds in my account. I am deeply disappointed and will be switching to a competitor.
+TKT-000641,CUS-0348,2025-10-05,Complaint,12,True,This is the worst experience I have ever had with a financial company. Your team is completely unhelpful and I am done waiting.
+TKT-000642,CUS-0348,2026-04-09,Product Query,11,True,Can you explain the early repayment charge on my loan?
+TKT-000643,CUS-0349,2025-05-26,Product Query,25,True,Can you explain the early repayment charge on my loan?
+TKT-000644,CUS-0349,2025-11-20,Fraud Query,4,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000645,CUS-0349,2025-10-02,Account Access,4,False,My two-factor authentication is not sending the verification code.
+TKT-000646,CUS-0350,2025-06-30,Account Access,17,True,I have been trying to access my account for two days without success. I am deeply disappointed and will be switching to a competitor.
+TKT-000647,CUS-0351,2026-01-12,Billing,14,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000648,CUS-0351,2025-09-07,Billing,12,False,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000649,CUS-0352,2026-05-07,Product Query,8,False,I need to know what the excess is on my home insurance policy.
+TKT-000650,CUS-0353,2025-08-05,Fraud Query,17,True,There are multiple small transactions I did not authorise on my account.
+TKT-000651,CUS-0354,2025-06-02,Fraud Query,13,True,There are multiple small transactions I did not authorise on my account.
+TKT-000652,CUS-0354,2025-11-16,Refund Request,29,False,I was charged a fee that was waived verbally by your agent but not applied.
+TKT-000653,CUS-0354,2025-08-03,Product Query,1,True,I need to know what the excess is on my home insurance policy.
+TKT-000654,CUS-0355,2025-12-21,Billing,22,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000655,CUS-0355,2025-08-24,Fraud Query,10,True,My card details have been used without my permission at an online retailer.
+TKT-000656,CUS-0355,2026-01-25,Product Query,19,True,I need to know what the excess is on my home insurance policy.
+TKT-000657,CUS-0355,2025-08-24,Refund Request,2,True,I was charged a fee that was waived verbally by your agent but not applied.
+TKT-000658,CUS-0356,2026-02-03,Service Failure,5,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000659,CUS-0357,2025-10-30,Account Access,1,True,The app keeps crashing every time I try to check my balance.
+TKT-000660,CUS-0357,2025-09-01,Complaint,22,True,I want to make a formal complaint about how my case has been handled.
+TKT-000661,CUS-0358,2025-09-22,Complaint,5,False,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000662,CUS-0359,2025-11-03,Billing,1,False,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000663,CUS-0360,2026-04-02,Billing,5,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000664,CUS-0360,2025-08-21,Fraud Query,23,True,There are multiple small transactions I did not authorise on my account.
+TKT-000665,CUS-0360,2025-09-19,Account Access,10,False,I cannot log into my online account and the reset link is not working.
+TKT-000666,CUS-0361,2025-09-25,Billing,1,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000667,CUS-0361,2025-11-25,Product Query,25,False,What is the process for increasing my credit limit? I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000668,CUS-0361,2026-01-08,Refund Request,63,True,I cancelled my policy within the cooling off period and am still waiting for a refund.
+TKT-000669,CUS-0362,2026-04-11,Billing,3,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000670,CUS-0362,2025-10-19,Account Access,21,True,The app keeps crashing every time I try to check my balance.
+TKT-000671,CUS-0362,2025-08-31,Product Query,7,False,I want to understand what interest rate applies to my savings account.
+TKT-000672,CUS-0362,2025-12-28,Product Query,8,True,Can you explain the early repayment charge on my loan?
+TKT-000673,CUS-0363,2026-01-18,Service Failure,9,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000674,CUS-0363,2025-07-06,Fraud Query,12,True,There are multiple small transactions I did not authorise on my account.
+TKT-000675,CUS-0364,2025-12-22,Product Query,11,False,Can you explain the early repayment charge on my loan?
+TKT-000676,CUS-0364,2025-07-15,Product Query,11,True,I want to understand what interest rate applies to my savings account.
+TKT-000677,CUS-0364,2026-05-02,Service Failure,13,True,My payment did not go through despite sufficient funds in my account.
+TKT-000678,CUS-0365,2025-09-05,Billing,26,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000679,CUS-0365,2025-06-23,Service Failure,12,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000680,CUS-0366,2025-08-11,Complaint,14,True,I have raised this issue three times and nothing has been done. This is unacceptable. This has caused me significant financial distress and I expect immediate action.
+TKT-000681,CUS-0366,2025-09-21,Complaint,26,False,I want to make a formal complaint about how my case has been handled.
+TKT-000682,CUS-0366,2025-12-02,Product Query,39,True,I would like to know the terms for switching my mortgage. This has caused me significant financial distress and I expect immediate action.
+TKT-000683,CUS-0366,2025-12-01,Complaint,14,True,I have raised this issue three times and nothing has been done. This is unacceptable. This is disgusting. I have never experienced such poor service.
+TKT-000684,CUS-0367,2025-11-14,Fraud Query,37,True,I received an email claiming to be from you asking for my password.
+TKT-000685,CUS-0367,2025-08-24,Product Query,52,True,What is the process for increasing my credit limit?
+TKT-000686,CUS-0368,2026-03-03,Account Access,4,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000687,CUS-0368,2026-01-22,Fraud Query,5,True,I received an email claiming to be from you asking for my password.
+TKT-000688,CUS-0369,2026-01-24,Product Query,32,True,I want to understand what interest rate applies to my savings account.
+TKT-000689,CUS-0370,2026-03-27,Billing,17,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000690,CUS-0371,2025-09-15,Product Query,19,True,Can you explain the early repayment charge on my loan?
+TKT-000691,CUS-0371,2026-02-28,Billing,5,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000692,CUS-0371,2025-12-22,Account Access,10,True,My two-factor authentication is not sending the verification code.
+TKT-000693,CUS-0372,2025-07-06,Billing,54,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000694,CUS-0372,2026-02-01,Complaint,7,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000695,CUS-0372,2025-06-24,Fraud Query,15,True,There are multiple small transactions I did not authorise on my account.
+TKT-000696,CUS-0373,2025-11-14,Complaint,12,True,I want to make a formal complaint about how my case has been handled.
+TKT-000697,CUS-0373,2025-06-14,Product Query,15,True,Can you explain the early repayment charge on my loan?
+TKT-000698,CUS-0374,2025-09-06,Product Query,14,False,I would like to know the terms for switching my mortgage.
+TKT-000699,CUS-0375,2025-11-24,Complaint,4,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000700,CUS-0376,2025-11-07,Account Access,15,True,The app keeps crashing every time I try to check my balance. Your team is completely unhelpful and I am done waiting.
+TKT-000701,CUS-0377,2025-10-24,Account Access,5,True,I cannot log into my online account and the reset link is not working.
+TKT-000702,CUS-0378,2026-01-21,Billing,37,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000703,CUS-0378,2026-04-03,Billing,14,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000704,CUS-0379,2025-07-07,Billing,16,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000705,CUS-0380,2025-08-17,Product Query,62,True,I need to know what the excess is on my home insurance policy.
+TKT-000706,CUS-0380,2026-02-14,Product Query,12,True,What is the process for increasing my credit limit?
+TKT-000707,CUS-0381,2026-01-24,Billing,23,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000708,CUS-0382,2026-02-07,Product Query,1,False,What is the process for increasing my credit limit? I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000709,CUS-0383,2025-12-30,Billing,1,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000710,CUS-0384,2026-05-20,Billing,4,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000711,CUS-0384,2026-03-29,Product Query,27,True,Can you explain the early repayment charge on my loan?
+TKT-000712,CUS-0385,2026-04-23,Complaint,13,True,This is the worst experience I have ever had with a financial company.
+TKT-000713,CUS-0385,2025-12-14,Account Access,11,True,My two-factor authentication is not sending the verification code.
+TKT-000714,CUS-0385,2025-07-24,Service Failure,25,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000715,CUS-0385,2025-08-10,Refund Request,1,False,I need a refund for a duplicate payment made during the system outage.
+TKT-000716,CUS-0386,2026-03-22,Fraud Query,8,True,My card details have been used without my permission at an online retailer.
+TKT-000717,CUS-0386,2026-02-13,Service Failure,12,False,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000718,CUS-0386,2026-02-12,Product Query,2,True,I want to understand what interest rate applies to my savings account.
+TKT-000719,CUS-0387,2026-03-16,Billing,14,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000720,CUS-0387,2025-06-03,Complaint,20,True,This is the worst experience I have ever had with a financial company.
+TKT-000721,CUS-0387,2025-11-15,Refund Request,26,True,I cancelled my policy within the cooling off period and am still waiting for a refund.
+TKT-000722,CUS-0387,2025-11-24,Product Query,33,True,I want to understand what interest rate applies to my savings account.
+TKT-000723,CUS-0388,2025-12-23,Billing,22,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000724,CUS-0389,2025-10-26,Billing,32,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000725,CUS-0390,2026-03-16,Fraud Query,20,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000726,CUS-0391,2025-09-29,Fraud Query,1,True,My card details have been used without my permission at an online retailer.
+TKT-000727,CUS-0392,2025-06-23,Billing,10,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000728,CUS-0392,2025-06-05,Service Failure,31,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000729,CUS-0392,2026-04-29,Account Access,4,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000730,CUS-0393,2026-04-13,Complaint,12,True,I want to make a formal complaint about how my case has been handled.
+TKT-000731,CUS-0394,2025-12-19,Product Query,13,True,I need to know what the excess is on my home insurance policy.
+TKT-000732,CUS-0395,2026-03-30,Account Access,5,True,The app keeps crashing every time I try to check my balance.
+TKT-000733,CUS-0395,2026-03-22,Account Access,7,True,I have been trying to access my account for two days without success.
+TKT-000734,CUS-0395,2025-10-05,Account Access,1,False,My account has been locked and I need it unlocked as soon as possible.
+TKT-000735,CUS-0396,2025-08-06,Complaint,7,True,I want to make a formal complaint about how my case has been handled.
+TKT-000736,CUS-0397,2025-11-09,Service Failure,2,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000737,CUS-0398,2025-11-08,Fraud Query,12,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000738,CUS-0399,2025-07-31,Service Failure,4,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000739,CUS-0399,2025-08-19,Service Failure,10,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000740,CUS-0400,2026-03-23,Billing,27,False,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000741,CUS-0400,2026-03-06,Product Query,45,True,I need to know what the excess is on my home insurance policy.
+TKT-000742,CUS-0400,2025-12-27,Complaint,8,False,I want to make a formal complaint about how my case has been handled.
+TKT-000743,CUS-0401,2025-07-04,Complaint,12,True,I want to make a formal complaint about how my case has been handled.
+TKT-000744,CUS-0401,2026-03-27,Refund Request,94,True,My overpayment from last month has not been returned to my account.
+TKT-000745,CUS-0401,2026-04-13,Service Failure,4,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000746,CUS-0402,2025-07-10,Billing,14,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000747,CUS-0403,2025-05-27,Account Access,7,True,I cannot log into my online account and the reset link is not working.
+TKT-000748,CUS-0404,2025-12-16,Account Access,6,True,I cannot log into my online account and the reset link is not working.
+TKT-000749,CUS-0405,2025-09-18,Product Query,1,True,What is the process for increasing my credit limit?
+TKT-000750,CUS-0405,2025-07-16,Fraud Query,4,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000751,CUS-0406,2025-06-19,Refund Request,1,False,I cancelled my policy within the cooling off period and am still waiting for a refund.
+TKT-000752,CUS-0407,2025-06-23,Fraud Query,3,True,There are multiple small transactions I did not authorise on my account.
+TKT-000753,CUS-0407,2026-05-02,Fraud Query,1,True,I received an email claiming to be from you asking for my password.
+TKT-000754,CUS-0408,2026-02-19,Fraud Query,3,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000755,CUS-0409,2025-06-03,Product Query,5,True,What is the process for increasing my credit limit?
+TKT-000756,CUS-0409,2025-10-15,Account Access,44,False,My account has been locked and I need it unlocked as soon as possible.
+TKT-000757,CUS-0409,2025-10-20,Complaint,17,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000758,CUS-0409,2025-06-13,Product Query,6,True,I want to understand what interest rate applies to my savings account.
+TKT-000759,CUS-0410,2025-10-21,Billing,10,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000760,CUS-0410,2026-04-01,Product Query,3,False,What is the process for increasing my credit limit?
+TKT-000761,CUS-0410,2025-08-30,Account Access,2,True,I cannot log into my online account and the reset link is not working.
+TKT-000762,CUS-0410,2025-12-11,Account Access,49,True,I cannot log into my online account and the reset link is not working.
+TKT-000763,CUS-0411,2026-04-14,Complaint,7,True,This is the worst experience I have ever had with a financial company.
+TKT-000764,CUS-0412,2026-03-19,Complaint,11,False,This is the worst experience I have ever had with a financial company.
+TKT-000765,CUS-0413,2026-05-14,Account Access,14,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000766,CUS-0413,2026-03-14,Complaint,5,True,This is the worst experience I have ever had with a financial company.
+TKT-000767,CUS-0413,2025-07-29,Fraud Query,7,True,I received an email claiming to be from you asking for my password.
+TKT-000768,CUS-0414,2026-04-16,Account Access,45,True,I have been trying to access my account for two days without success.
+TKT-000769,CUS-0414,2025-07-04,Product Query,5,True,Can you explain the early repayment charge on my loan?
+TKT-000770,CUS-0414,2025-12-14,Fraud Query,3,True,I received an email claiming to be from you asking for my password.
+TKT-000771,CUS-0414,2026-03-15,Complaint,17,False,I want to make a formal complaint about how my case has been handled.
+TKT-000772,CUS-0415,2025-11-05,Refund Request,17,True,I cancelled my policy within the cooling off period and am still waiting for a refund. This is disgusting. I have never experienced such poor service.
+TKT-000773,CUS-0415,2026-01-20,Complaint,16,True,I was told my issue would be resolved in 48 hours. It has now been two weeks. I am deeply disappointed and will be switching to a competitor.
+TKT-000774,CUS-0416,2025-12-17,Billing,15,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000775,CUS-0417,2026-03-23,Fraud Query,32,True,There are multiple small transactions I did not authorise on my account.
+TKT-000776,CUS-0418,2026-05-24,Billing,1,False,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000777,CUS-0419,2025-06-15,Product Query,14,True,I want to understand what interest rate applies to my savings account.
+TKT-000778,CUS-0419,2025-12-29,Complaint,35,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000779,CUS-0420,2026-04-22,Service Failure,57,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000780,CUS-0420,2025-11-28,Billing,26,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000781,CUS-0421,2025-06-29,Fraud Query,2,True,My card details have been used without my permission at an online retailer.
+TKT-000782,CUS-0422,2026-03-01,Billing,68,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000783,CUS-0423,2025-08-07,Product Query,17,True,What is the process for increasing my credit limit?
+TKT-000784,CUS-0424,2025-09-07,Complaint,4,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000785,CUS-0424,2026-02-03,Service Failure,12,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000786,CUS-0425,2025-09-03,Product Query,14,True,I want to understand what interest rate applies to my savings account.
+TKT-000787,CUS-0425,2025-06-26,Account Access,15,True,My two-factor authentication is not sending the verification code.
+TKT-000788,CUS-0426,2026-01-13,Billing,24,False,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000789,CUS-0427,2025-06-25,Account Access,12,True,My two-factor authentication is not sending the verification code. I am deeply disappointed and will be switching to a competitor.
+TKT-000790,CUS-0427,2026-03-20,Fraud Query,16,True,I received an email claiming to be from you asking for my password. I cannot believe how badly this has been managed. Completely unacceptable.
+TKT-000791,CUS-0427,2026-05-18,Fraud Query,9,False,Someone has made three purchases in Germany but I am in the UK.
+TKT-000792,CUS-0427,2025-06-03,Fraud Query,16,True,There are multiple small transactions I did not authorise on my account.
+TKT-000793,CUS-0428,2025-10-26,Account Access,10,True,The app keeps crashing every time I try to check my balance.
+TKT-000794,CUS-0428,2025-12-26,Billing,3,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000795,CUS-0428,2025-08-25,Account Access,1,True,I cannot log into my online account and the reset link is not working.
+TKT-000796,CUS-0429,2025-07-11,Account Access,57,True,My two-factor authentication is not sending the verification code. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000797,CUS-0430,2026-04-11,Account Access,10,True,The app keeps crashing every time I try to check my balance.
+TKT-000798,CUS-0431,2025-11-12,Fraud Query,59,True,I received an email claiming to be from you asking for my password.
+TKT-000799,CUS-0431,2026-01-18,Complaint,3,False,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000800,CUS-0432,2025-09-05,Billing,1,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000801,CUS-0432,2026-02-19,Product Query,2,True,I need to know what the excess is on my home insurance policy.
+TKT-000802,CUS-0433,2026-03-15,Billing,3,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000803,CUS-0433,2025-06-12,Product Query,17,True,What is the process for increasing my credit limit?
+TKT-000804,CUS-0433,2026-03-31,Fraud Query,1,True,There are multiple small transactions I did not authorise on my account.
+TKT-000805,CUS-0434,2025-07-11,Account Access,3,True,I cannot log into my online account and the reset link is not working.
+TKT-000806,CUS-0434,2026-04-30,Service Failure,28,True,My card was declined at the supermarket even though my account is in credit. Your team is completely unhelpful and I am done waiting.
+TKT-000807,CUS-0435,2025-12-21,Billing,13,True,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000808,CUS-0435,2026-03-23,Complaint,13,True,I want to make a formal complaint about how my case has been handled.
+TKT-000809,CUS-0436,2025-12-08,Fraud Query,33,False,Someone has made three purchases in Germany but I am in the UK.
+TKT-000810,CUS-0437,2025-07-14,Account Access,47,True,The app keeps crashing every time I try to check my balance.
+TKT-000811,CUS-0438,2026-03-19,Product Query,3,True,Can you explain the early repayment charge on my loan?
+TKT-000812,CUS-0439,2025-06-10,Account Access,3,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000813,CUS-0440,2025-11-11,Account Access,3,True,My two-factor authentication is not sending the verification code.
+TKT-000814,CUS-0440,2026-04-27,Account Access,1,True,The app keeps crashing every time I try to check my balance.
+TKT-000815,CUS-0441,2025-10-26,Complaint,12,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000816,CUS-0441,2025-07-14,Service Failure,6,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000817,CUS-0442,2025-11-23,Product Query,1,True,What is the process for increasing my credit limit?
+TKT-000818,CUS-0442,2026-03-31,Fraud Query,1,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000819,CUS-0442,2026-03-20,Product Query,15,True,I need to know what the excess is on my home insurance policy.
+TKT-000820,CUS-0442,2026-02-18,Service Failure,15,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000821,CUS-0443,2026-03-07,Billing,12,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000822,CUS-0444,2025-11-17,Billing,48,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000823,CUS-0445,2026-02-02,Refund Request,44,True,I was charged a fee that was waived verbally by your agent but not applied.
+TKT-000824,CUS-0446,2025-07-07,Product Query,4,False,I need to know what the excess is on my home insurance policy.
+TKT-000825,CUS-0447,2025-07-08,Fraud Query,3,True,There are multiple small transactions I did not authorise on my account.
+TKT-000826,CUS-0447,2025-06-12,Complaint,17,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000827,CUS-0447,2026-05-19,Account Access,28,True,The app keeps crashing every time I try to check my balance.
+TKT-000828,CUS-0447,2026-01-20,Fraud Query,4,True,There are multiple small transactions I did not authorise on my account.
+TKT-000829,CUS-0448,2026-04-07,Complaint,3,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000830,CUS-0449,2025-10-01,Fraud Query,46,True,There are multiple small transactions I did not authorise on my account.
+TKT-000831,CUS-0449,2025-12-28,Product Query,12,True,I want to understand what interest rate applies to my savings account.
+TKT-000832,CUS-0449,2025-05-26,Complaint,13,False,This is the worst experience I have ever had with a financial company.
+TKT-000833,CUS-0449,2026-02-09,Fraud Query,35,False,Someone has made three purchases in Germany but I am in the UK.
+TKT-000834,CUS-0450,2025-07-31,Fraud Query,22,False,There are multiple small transactions I did not authorise on my account.
+TKT-000835,CUS-0451,2025-08-25,Service Failure,2,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000836,CUS-0452,2026-05-04,Fraud Query,107,True,There are multiple small transactions I did not authorise on my account.
+TKT-000837,CUS-0452,2025-06-15,Billing,10,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000838,CUS-0453,2025-10-09,Account Access,10,True,The app keeps crashing every time I try to check my balance.
+TKT-000839,CUS-0453,2025-06-09,Account Access,21,True,The app keeps crashing every time I try to check my balance.
+TKT-000840,CUS-0454,2025-08-29,Product Query,8,False,Can you explain the early repayment charge on my loan?
+TKT-000841,CUS-0454,2025-10-27,Product Query,1,True,I want to understand what interest rate applies to my savings account.
+TKT-000842,CUS-0455,2025-12-06,Product Query,1,True,I would like to know the terms for switching my mortgage.
+TKT-000843,CUS-0455,2025-08-13,Account Access,1,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000844,CUS-0456,2026-03-30,Account Access,17,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000845,CUS-0457,2026-02-10,Complaint,46,True,This is the worst experience I have ever had with a financial company.
+TKT-000846,CUS-0458,2025-07-21,Complaint,34,True,This is the worst experience I have ever had with a financial company.
+TKT-000847,CUS-0458,2025-08-08,Fraud Query,5,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000848,CUS-0458,2025-12-25,Fraud Query,16,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000849,CUS-0459,2025-08-21,Product Query,7,True,I want to understand what interest rate applies to my savings account.
+TKT-000850,CUS-0459,2025-10-24,Fraud Query,2,True,I do not recognise a transaction on my account for £230 from last night.
+TKT-000851,CUS-0460,2025-11-03,Billing,2,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000852,CUS-0460,2026-03-26,Fraud Query,7,False,Someone has made three purchases in Germany but I am in the UK.
+TKT-000853,CUS-0460,2026-01-24,Product Query,47,True,I want to understand what interest rate applies to my savings account.
+TKT-000854,CUS-0461,2025-11-30,Product Query,1,True,Can you explain the early repayment charge on my loan?
+TKT-000855,CUS-0462,2026-02-08,Fraud Query,11,True,I received an email claiming to be from you asking for my password.
+TKT-000856,CUS-0463,2025-12-29,Fraud Query,15,True,My card details have been used without my permission at an online retailer.
+TKT-000857,CUS-0464,2026-04-15,Product Query,7,True,Can you explain the early repayment charge on my loan?
+TKT-000858,CUS-0465,2026-01-29,Service Failure,27,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000859,CUS-0466,2025-11-27,Service Failure,1,False,My card was declined at the supermarket even though my account is in credit.
+TKT-000860,CUS-0467,2026-01-26,Product Query,7,False,What is the process for increasing my credit limit?
+TKT-000861,CUS-0468,2026-01-18,Product Query,3,True,I want to understand what interest rate applies to my savings account.
+TKT-000862,CUS-0469,2026-04-22,Account Access,7,True,I have been trying to access my account for two days without success.
+TKT-000863,CUS-0470,2025-10-05,Service Failure,45,True,The online banking was unavailable for over 12 hours with no communication from you.
+TKT-000864,CUS-0470,2025-08-26,Refund Request,17,True,My overpayment from last month has not been returned to my account.
+TKT-000865,CUS-0471,2025-08-28,Product Query,12,True,I want to understand what interest rate applies to my savings account.
+TKT-000866,CUS-0471,2025-08-27,Billing,1,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000867,CUS-0472,2025-11-02,Billing,17,True,I was charged twice for the same transaction and need this refunded immediately.
+TKT-000868,CUS-0472,2025-08-29,Refund Request,1,True,My overpayment from last month has not been returned to my account.
+TKT-000869,CUS-0473,2025-08-16,Account Access,29,True,I cannot log into my online account and the reset link is not working. I am deeply disappointed and will be switching to a competitor.
+TKT-000870,CUS-0474,2025-10-26,Billing,25,True,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000871,CUS-0475,2025-05-31,Service Failure,19,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000872,CUS-0475,2026-04-01,Fraud Query,10,False,Someone has made three purchases in Germany but I am in the UK. I am absolutely furious about how this has been handled.
+TKT-000873,CUS-0476,2026-01-01,Fraud Query,3,True,Someone has made three purchases in Germany but I am in the UK.
+TKT-000874,CUS-0477,2026-01-09,Billing,22,False,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000875,CUS-0477,2025-11-14,Account Access,17,True,I cannot log into my online account and the reset link is not working.
+TKT-000876,CUS-0477,2025-10-29,Service Failure,34,True,My payment did not go through despite sufficient funds in my account.
+TKT-000877,CUS-0477,2025-10-14,Service Failure,27,True,The service has been unreliable for weeks and is affecting my business.
+TKT-000878,CUS-0478,2025-06-21,Account Access,15,False,I cannot log into my online account and the reset link is not working.
+TKT-000879,CUS-0479,2025-11-19,Fraud Query,10,True,There are multiple small transactions I did not authorise on my account.
+TKT-000880,CUS-0480,2026-04-22,Refund Request,30,False,The product was misrepresented and I would like a full refund.
+TKT-000881,CUS-0481,2025-12-18,Product Query,18,True,I need to know what the excess is on my home insurance policy.
+TKT-000882,CUS-0481,2025-07-25,Account Access,6,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000883,CUS-0482,2026-01-14,Product Query,9,True,What is the process for increasing my credit limit?
+TKT-000884,CUS-0482,2025-11-05,Product Query,3,True,I need to know what the excess is on my home insurance policy.
+TKT-000885,CUS-0482,2025-11-18,Product Query,1,True,I would like to know the terms for switching my mortgage.
+TKT-000886,CUS-0483,2025-10-31,Product Query,20,False,I need to know what the excess is on my home insurance policy.
+TKT-000887,CUS-0484,2025-07-02,Complaint,2,True,I want to make a formal complaint about how my case has been handled.
+TKT-000888,CUS-0484,2025-07-21,Billing,10,False,The direct debit was taken on the wrong date causing me to go overdrawn.
+TKT-000889,CUS-0485,2026-01-11,Complaint,23,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000890,CUS-0486,2025-11-13,Product Query,4,True,I need to know what the excess is on my home insurance policy.
+TKT-000891,CUS-0486,2025-06-03,Complaint,42,True,I want to make a formal complaint about how my case has been handled.
+TKT-000892,CUS-0486,2025-11-05,Complaint,13,True,I was told my issue would be resolved in 48 hours. It has now been two weeks.
+TKT-000893,CUS-0486,2025-05-28,Account Access,5,False,My account has been locked and I need it unlocked as soon as possible.
+TKT-000894,CUS-0487,2025-12-26,Refund Request,11,True,The product was misrepresented and I would like a full refund. I will be contacting the Financial Ombudsman if this is not resolved today.
+TKT-000895,CUS-0487,2025-08-12,Service Failure,30,True,My card was declined at the supermarket even though my account is in credit. This is disgusting. I have never experienced such poor service.
+TKT-000896,CUS-0487,2025-08-17,Account Access,13,True,The app keeps crashing every time I try to check my balance.
+TKT-000897,CUS-0488,2026-02-19,Billing,3,True,There is an unexplained charge of £45 on my account from last Tuesday.
+TKT-000898,CUS-0489,2026-02-25,Account Access,1,True,I cannot log into my online account and the reset link is not working.
+TKT-000899,CUS-0490,2025-11-27,Service Failure,12,True,My card was declined at the supermarket even though my account is in credit.
+TKT-000900,CUS-0491,2025-08-30,Complaint,36,True,Your customer service is absolutely appalling and I am considering leaving.
+TKT-000901,CUS-0492,2026-01-25,Complaint,24,True,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000902,CUS-0492,2025-12-03,Complaint,15,True,This is the worst experience I have ever had with a financial company.
+TKT-000903,CUS-0492,2025-10-05,Service Failure,33,True,My payment did not go through despite sufficient funds in my account.
+TKT-000904,CUS-0493,2026-04-21,Product Query,12,True,I want to understand what interest rate applies to my savings account.
+TKT-000905,CUS-0493,2026-03-13,Service Failure,16,True,My payment did not go through despite sufficient funds in my account.
+TKT-000906,CUS-0493,2025-07-16,Service Failure,48,False,My payment did not go through despite sufficient funds in my account.
+TKT-000907,CUS-0493,2025-07-04,Complaint,11,False,I have raised this issue three times and nothing has been done. This is unacceptable.
+TKT-000908,CUS-0494,2026-01-23,Account Access,5,True,I have been trying to access my account for two days without success.
+TKT-000909,CUS-0494,2026-01-17,Refund Request,10,True,My overpayment from last month has not been returned to my account.
+TKT-000910,CUS-0495,2026-01-19,Billing,1,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000911,CUS-0496,2026-04-26,Fraud Query,20,False,I received an email claiming to be from you asking for my password.
+TKT-000912,CUS-0497,2025-08-23,Billing,16,False,I have been waiting three weeks for a billing dispute to be resolved.
+TKT-000913,CUS-0498,2025-08-10,Billing,10,True,My monthly fee has increased without any notification. I am not happy about this.
+TKT-000914,CUS-0498,2026-01-24,Account Access,7,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000915,CUS-0498,2026-01-15,Account Access,27,True,My account has been locked and I need it unlocked as soon as possible.
+TKT-000916,CUS-0499,2026-01-19,Complaint,20,True,This is the worst experience I have ever had with a financial company.
+TKT-000917,CUS-0500,2025-06-22,Refund Request,5,False,I was charged a fee that was waived verbally by your agent but not applied.
+TKT-000918,CUS-0500,2025-10-24,Service Failure,1,True,I was on hold for 45 minutes and then the call was disconnected.
+TKT-000919,CUS-0500,2026-03-02,Complaint,1,True,I want to make a formal complaint about how my case has been handled.
